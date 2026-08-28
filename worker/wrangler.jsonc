@@ -1,0 +1,8 @@
+{
+  // TV FREEDOM playlist CDN worker — deploy: npx wrangler@latest deploy
+  "name": "tv-matrix",
+  "main": "worker.js",
+  "compatibility_date": "2026-01-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true
+}
