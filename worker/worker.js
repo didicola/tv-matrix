@@ -23,10 +23,6 @@ export default {
 
     if (!FILES.includes(path)) return new Response("Not found", { status: 404 });
 
-    if (request.method === "GET" && request.headers.get("if-none-match") !== undefined) {
-      return new Response(null, { status: 304 });
-    }
-
     const cache = caches.default;
     const cached = await cache.match(request);
     if (cached) return cached;
