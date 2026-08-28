@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0 group-title="NEWS",France 24 Français (FR24)
+https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:0 group-title="NEWS",France 24 English (FR24 EN)
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0 group-title="NEWS",France 24 Arabic (FR24 AR)
+https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:0 group-title="ARABIC",Al Jazeera العربية (AlJazeera AR)
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:0 group-title="ARABIC",Al Jazeera English
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:0 group-title="ARABIC",Al Jazeera Mubasher (بث مباشر)
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+#EXTINF:0 group-title="ARABIC",Al Jazeera Documentary
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:0 group-title="ARABIC",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+#EXTINF:0 group-title="ARABIC",MBC Masr
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+#EXTINF:0 group-title="WORLD",TRT World (EN)
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="ARABIC",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="FRANCE",BFM TV (SFR)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVESBFM_TV/index.m3u8
