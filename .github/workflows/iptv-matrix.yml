@@ -1,0 +1,25 @@
+name: iptv-matrix
+# Autonomous working-matrix generator (Round 257): sweeps sources in weekly
+# rotating slices, writes all-working.m3u + matrix.json, commits. 0-local.
+on:
+  schedule:
+    - cron: '17 3 * * 0'   # Sundays 03:17 UTC (polite hours)
+  workflow_dispatch:
+
+jobs:
+  matrix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: generate matrix
+        run: python3 scripts/iptv-matrix-gen.py
+      - name: commit matrix
+        run: |
+          git config user.name "eon-matrix" && git config user.email "matrix@eon"
+          git add all-working.m3u matrix.json || true
+          git diff --cached --quiet || git commit -m "matrix: weekly verified sweep" || true
+          git push || echo "push note"
