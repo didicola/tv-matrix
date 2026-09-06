@@ -1,0 +1,7 @@
+#EXTM3U x-verified=2026-09-06 x-note="legal free premium news/world, all probed live"
+#EXTINF:-1,Deutsche Welle English (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,Deutsche Welle Latino (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015530/dwstream103/index.m3u8
+#EXTINF:-1,Sky News Arabia (1080p)
+https://stream.skynewsarabia.com/hls/sna.m3u8
