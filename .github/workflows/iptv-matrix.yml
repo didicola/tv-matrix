@@ -6,6 +6,9 @@ on:
     - cron: '17 3 * * 0'   # Sundays 03:17 UTC (polite hours)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   matrix:
     runs-on: ubuntu-latest
