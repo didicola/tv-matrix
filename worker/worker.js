@@ -1,6 +1,6 @@
 const REPO = "didicola/tv-matrix";
 const BRANCH = "main";
-const FILES = ["eu.m3u", "films.m3u", "films-working.m3u", "mega.m3u", "mega-full.m3u"];
+const FILES = ["eu.m3u", "films.m3u", "films-working.m3u", "mega.m3u", "mega-full.m3u", "all-working.m3u", "eu-pro.m3u", "kids-working.m3u", "premium-legal.m3u", "eu-full.m3u", "all.m3u"];
 const CACHE_MAX_AGE = 600;
 
 export default {
