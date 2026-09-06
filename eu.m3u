@@ -569,3 +569,11 @@ http://archive.org/download/sweethome_202101/SWEETHOME.m3u
 http://archive.org/download/gam_20201208/GAM.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE OFFICE.jpg" group-title="Netflix",THE OFFICE
 http://archive.org/download/theoffice-1/THEOFFICE.m3u
+
+# --- films verified 2026-09-06 ---
+#EXTINF:0 genre="Animation",Cosmos Laundromat - First Cycle (2K)
+https://media.xiph.org/cosmoslaundromat/Cosmos_Laundromat_First_Cycle_2k.mp4
+#EXTINF:0 genre="Animation",Cosmos Laundromat - Bande-annonce
+https://media.xiph.org/cosmoslaundromat/Pilot_Trailer_Cosmos_Laundromat.mp4
+#EXTINF:0 genre="Cinéma",Tears of Steel (film libre - 1080p)
+https://media.xiph.org/mango/tears_of_steel_1080p.webm
