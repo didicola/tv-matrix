@@ -1,0 +1,1755 @@
+#EXTM3U x-generated=all-merge x-date=2026-09-06
+#EXTINF:0 group-title="NEWS",France 24 Français (FR24)
+https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:0 group-title="NEWS",France 24 English (FR24 EN)
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0 group-title="NEWS",France 24 Arabic (FR24 AR)
+https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:0 group-title="ARABIC",Al Jazeera العربية (AlJazeera AR)
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:0 group-title="ARABIC",Al Jazeera English
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:0 group-title="ARABIC",Al Jazeera Mubasher (بث مباشر)
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+#EXTINF:0 group-title="ARABIC",Al Jazeera Documentary
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:0 group-title="ARABIC",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+#EXTINF:0 group-title="WORLD",TRT World (EN)
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="ARABIC",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel
+http://88.212.15.19/live/test_disney/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel (1080p)
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" group-title="Kids",Disney Channel (720p) [Geo-blocked]
+http://212.5.144.156/disney/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America (1080p)
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America Center (1080p)
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@North" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America North (576p)
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America Panregional HD (1080p)
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids",Disney Jr. (1080p)
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@North" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America (1080p)
+http://177.234.249.178:8888/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America (576p)
+http://190.93.224.42/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@NorthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America North HD (1080p)
+http://181.78.14.26:4000/play/a073/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South (1080p)
+http://45.185.163.75:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South HD (1080p)
+http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Kids",Disney Junior (720p)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="Kids",Disney XD (720p)
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:0,Disney Channel
+http://88.212.15.19/live/disney_channel_hun/index.m3u8
+#EXTINF:0,Disney Channel
+https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
+#EXTINF:0,Disney Junior
+http://88.212.15.19/live/test_disney_junior/playlist.m3u8
+#EXTINF:0,Disney Junior
+https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-channel-east.png" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY CHANNEL (EAST) [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303551.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-channel-west.png" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY CHANNEL (WEST) [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303552.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-jr-east.svg" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY JR (EAST) [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303553.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-jr-west.svg" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY JR (WEST) [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303554.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-xd-east.png" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY XD (EAST) [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303555.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-xd-west.png" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY XD (WEST) [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303556.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/pt-disney-channel.png" group-title="CANAIS | PORTUGAL",PT: DISNEY CHANNEL [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303828.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/pt-disney-junior.svg" group-title="CANAIS | PORTUGAL",PT: DISNEY JUNIOR [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303827.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 1 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5981.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 2 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5982.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 3 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5983.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 4 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5984.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Denmark",DK: Disney XD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Denmark",DK: Disney Channel
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2575.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Aksion.png" group-title="Filma",AL: Netflix Aksion
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3353.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Arnold Schwarzenegger.png" group-title="Filma",AL: Netflix Arnold Schwarzenegger
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3352.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Aventure.png" group-title="Filma",AL: Netflix Aventure
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3351.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Bud Spencer.png" group-title="Filma",AL: Netflix Bud Spencer
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3350.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Dwayne Johnson.png" group-title="Filma",AL: Netflix Dwayne Johnson
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3349.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Fantazi.png" group-title="Filma",AL: Netflix Fantazi
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3347.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Jackie Chan.png" group-title="Filma",AL: Netflix Jackie Chan
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3344.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Komedi.png" group-title="Filma",AL: Netflix Komedi
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3343.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Relaks FHD.png" group-title="Filma",AL: Netflix Relaks FHD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3342.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Romance.png" group-title="Filma",AL: Netflix Romance
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3341.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Spider-Man.png" group-title="Filma",AL: Netflix Spider-Man
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3340.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Sylvester Stallone.png" group-title="Filma",AL: Netflix Sylvester Stallone
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3339.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Van Damme.png" group-title="Filma",AL: Netflix Van Damme
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3338.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/finland/Disney_Channel_logo_(2014).png" group-title="Finland",FI: Disney Channel
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2322.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",FR: Disney Junior HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2677.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",FR: Disney XD HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",FR: Disney Channel
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2666.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",FR: Disney Cinema HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2667.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE: Netflix  Scıence-Fıctıon ʜᴅ
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6059.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE: Netflix  Krımı ʜᴅ
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6058.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE: Netflix  Komodie ʜᴅ
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6057.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE: Netflix  Horror ʜᴅ
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6056.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Fantasy HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6055.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Familie HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Drama hd
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6053.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Action HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6052.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Abenteur HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6051.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/DISNEYCINEMAGICHD.png" group-title="Germany",DE: Disney Cinemagic
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/294.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/DISNEYJUNIORHD.png" group-title="Germany",DE: Disney Junior
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/293.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/DISNEYCHANNELHD.png" group-title="Germany",DE: Disney Channel HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/292.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Greece",GR: Disney Channel
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5946.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/eaglecinema.png" group-title="Italy",IT: Eagle Disney Topolino Paperino e Pippo HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1393.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/eaglecinema.png" group-title="Italy",IT: Eagle Le Fiabe Disney HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1399.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/eaglecinema.png" group-title="Italy",IT: Disney Plus Animation ᴴᴰ
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1374.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Norway",NO: Disney Channel NO
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2347.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Norway",NO: Disney Channel
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2333.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Norway",NO: Disney XD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2334.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/disneyxd.png" group-title="Sweeden",SE: Disney XD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1066.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/disneyjunior.png" group-title="Sweeden",SE: Disney Junior
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1064.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/disneychannel.png" group-title="Sweeden",SE: Disney Channel
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1065.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",US: Disney Channel HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1942.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",US: Disney XD HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1943.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYXD.png" group-title="United Kingdom",UK: Disney XD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1514.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYXD.png" group-title="United Kingdom",UK:Disney XD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/502.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYJUNIOR.png" group-title="United Kingdom",UK: Disney Junior
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/503.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",|DE| NETFLIX SELECT INFO
+http://siptvs.com:8080/live/Biljana12/Biljana12/126208.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 1
+http://siptvs.com:8080/live/Biljana12/Biljana12/66046.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 2
+http://siptvs.com:8080/live/Biljana12/Biljana12/66050.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 3
+http://siptvs.com:8080/live/Biljana12/Biljana12/66051.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 4
+http://siptvs.com:8080/live/Biljana12/Biljana12/67454.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 5
+http://siptvs.com:8080/live/Biljana12/Biljana12/67455.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 6
+http://siptvs.com:8080/live/Biljana12/Biljana12/67456.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 7
+http://siptvs.com:8080/live/Biljana12/Biljana12/67458.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 9
+http://siptvs.com:8080/live/Biljana12/Biljana12/67462.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 10
+http://siptvs.com:8080/live/Biljana12/Biljana12/67463.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DECJI",Disney Jr.
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/438.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Channel HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50689.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Channel +1
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50690.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Cinema
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50691.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Cinema HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50692.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Junior HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50693.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",Disney Cinemagic
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/26601.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",Disney Junior DE
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/313.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",Disney DE
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/294.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Disney Channel
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52702.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Disney Plus Film HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52731.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 1 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52809.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 2 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52810.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 3 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52811.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 4 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52812.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 5 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52813.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 6 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52814.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 7 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52815.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 8 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52816.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 9 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52817.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 10 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52818.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 11 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52819.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 12 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52820.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 13 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52821.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 14 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52822.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Veronica / DisneyXD HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Veronica / Disney XD FHD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51745.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Disney Channel
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51768.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Disney Junior
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51769.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",RO:  Disney Channel
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51185.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",RO:  Disney Junior
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51186.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",: RO2: Disney Junior
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53190.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SVEDSKA",Disney Chanel (sw)
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/417.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SVEDSKA",Disney Jr (sw)
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1122.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Disney Junior
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53356.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Disney XD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 01" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 01
+http://64.31.23.207:80/96795792/50165825/296915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 02" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 02
+http://64.31.23.207:80/96795792/50165825/296916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 03" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 03
+http://64.31.23.207:80/96795792/50165825/296917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 04" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 04
+http://64.31.23.207:80/96795792/50165825/296918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 05" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 05
+http://64.31.23.207:80/96795792/50165825/296919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 06" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 06
+http://64.31.23.207:80/96795792/50165825/296920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 07" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 07
+http://64.31.23.207:80/96795792/50165825/296921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 08" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 08
+http://64.31.23.207:80/96795792/50165825/296922.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zqZ9N1BSRVk8LKlYpRIQI8fHzAs.jpg" group-title="Netflix",Dark (2017)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Dark%20(2017).m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg" group-title="Netflix",Stranger Things (2016)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Stranger%20Things%20(2016).m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qSMv90pF9WbWyQAfKTjr0qUc1rq.jpg" group-title="Netflix",Estado de la fuga 1986 (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Estado%20de%20la%20fuga%201986%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fr57huR86UiVWJr6C7S8wRaghZw.jpg" group-title="Netflix",La bestia en mí (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/la%20bestia%20en%20mi.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4WRrWmk5BJhlBOFEK0VWWFxamqU.jpg" group-title="Netflix",Hija del fuego (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Hija%20del%20fuego%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ac9e5FC2DlJZZcgBtQ5Jr2973uz.jpg" group-title="Netflix",El cuco de cristal (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20cuco%20de%20cristal%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qEm5qyanHN1VUN3hMwh3Zg2Qnqz.jpg" group-title="Netflix",El ultimo samurai en pie (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20ultimo%20samurai%20en%20pie%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/svXvFanF718EaHk8UG7NHHIZMUl.jpg" group-title="Netflix",50 Seconds: The Fernando Baez Sosa Case (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/50%20Seconds%20The%20Fernando%20B%C3%A1ez%20Sosa%20Case%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/LnhRnyCLTcqwT4vKwcg61kNIQl.jpg" group-title="Netflix",The Witcher (2019)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/The%20Witcher%20(2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6rUEuEfaFAyhR4PJV5FRxcGzkrS.jpg" group-title="Netflix",Ell monstruo de Florencia (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20monstruo%20de%20Florencia%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nOjhJqlWYDZHuskzGmZKdgoxlXN.jpg" group-title="Netflix",nadie nos vio partir (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/nadie%20nos%20vio%20partir%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sSaPOors7XFNRtP9qsIZ7oeLgkh.jpg" group-title="Netflix",El refugio atomico (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20refugio%20at%C3%B3mico%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tgKYnJlze79IUKkPmtsW2nSUeeB.jpg" group-title="Netflix",Splinter Cell Deathwatch (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Splinter%20Cell%20Deathwatch%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rPmbn8ATxwy3UtIHE0cLnNSEaGu.jpg" group-title="Netflix",Girl from Nowhere (2018)
+https://dl.dropbox.com/scl/fi/h3o8sax3duaf27kw5q90q/Girl-from-Nowhere-2018-op2?rlkey=mrllyu5xkszg4eeceg52snu7q&st=pwnyfajb&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yq4TfasaovGloVDXTIdfO132v39.jpg" group-title="Netflix",Plan de resurreccion (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Plan%20de%20resurrecci%C3%B3n%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifHhwXs52bofSvgoUWFKPTyIy6v.jpg" group-title="Netflix",la nueva brigada (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/la%20nueva%20brigada%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vYczshDGYktciJdcdxWpWManGiD.jpg" group-title="Netflix",animal (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/animal%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tuXxPutwb1QteO4LtMISN4RAXEA.jpg" group-title="Netflix",Envidiosa (2024)
+https://dl.dropbox.com/scl/fi/3m7tt1gu97tqq2vsrv853/Envidioso-2024-op2?rlkey=6g922uyocczvtoi40734xbg5v&st=hbejo043&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/77767BnO2ZIEBmkgqjQqTZnz9eh.jpg" group-title="Netflix",Nero the Assassin (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/N%C3%A9ro%20the%20Assassin%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg" group-title="Netflix",Boots (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Boots%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg" group-title="Netflix",Cashero (2025)
+https://dl.dropbox.com/scl/fi/whfemtj359gzp5lkdvkyn/Cashero-2025?rlkey=bfpdtpfhwutcxcifhtxiu0j4p&st=lsla03g6&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q3V4oTRAnOnp8irVHaQeO7JkYzx.jpg" group-title="Netflix",incontrolables (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/incontrolables%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6SP6NiyFxzUaegvg4TB3TMZlv8H.jpg" group-title="Netflix",Chica mascara (2023)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Mask%20Girl%20(2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg" group-title="Netflix",Genio, pide un deseo (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Genio%2C%20pide%20un%20deseo%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg" group-title="Netflix",Se puede traducir este amor (2026)
+https://dl.dropbox.com/scl/fi/4gzcj0ezkf0n3z2n3sdha/Se-puede-traducir-este-amor-2026?rlkey=a3kstknbfdy6tkl1gy43mjhy0&st=s7o890qd&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg" group-title="Netflix",Monster The Ed Gein Story (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Monster%20The%20Ed%20Gein%20Story%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sVl7GPi1aGX5wnNsBZDf93hu9gU.jpg" group-title="Netflix",el y ella (2026)
+https://dl.dropbox.com/scl/fi/64ypyg9u8gvou9cgrlvl6/L-Y-ELLA-2026?rlkey=8ztsl1ov518mmi3jcifxeasy8&st=27bsbglp&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3dvbR2dbwU6vC8zTqBU8OrCUozk.jpg" group-title="Netflix",Rehen (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Rehen%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aZZ6okqrvgo3ZGGFCQb1zq5fhdy.jpg" group-title="Netflix",mi novio coreano (2026)
+https://dl.dropbox.com/scl/fi/8jkt4v3oucozwz90u1tti/Mi-novio-coreano-2026?rlkey=lfgzjew4kxfy5sq91xb1nyq5b&st=t7ypdrto&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9n2HM0guy6Wn95EshDj7Uw6XWd2.jpg" group-title="Netflix",el tiempo de las moscas (2026)
+https://dl.dropbox.com/scl/fi/w3jovtx3j8a2q69lxtlq1/el-tiempo-de-las-moscas-2026?rlkey=h19cxbk1dofo1ilh8zloqwyyg&st=6gjnsqhm&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2heNhOUKqZDeUNPuxX2R4YJuSky.jpg" group-title="Netflix",Ríos del destino (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/R%C3%ADos%20del%20destino%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q7FzUmsCtYNAwWZ5PTACZLngssg.jpg" group-title="Netflix",Mr. Robot (2015)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Mr.%20Robot%20(2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/auC6veplvhh9TsxCxw5qJK6Xm5Y.jpg" group-title="Netflix",Jovenes millonarios (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Jovenes%20millonarios%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5qMupAz4A9EN5Rutrkmov45mNXZ.jpg" group-title="Netflix",Cobra Kai (2018)
+https://dl.dropbox.com/scl/fi/320hfjbi4cvl64b7i0aza/cobra-kai-6.m3u?rlkey=x9gy51e2n4oe2ff4hhnxkc7x5&st=0kn54gb0&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nj2woKV1zSIpOVJoddtGabd38Zw.jpg" group-title="Netflix",To Love, To Lose (2026)
+https://dl.dropbox.com/scl/fi/7vk18qlquepph2qh33sr8/amar-perder-2025?rlkey=m165chz4or07mm3jylevgf2d0&st=sqoc83sz&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cRv9pVrUiAPWWgqzJgRfS81oijz.jpg" group-title="Netflix",Dos tumbas (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Dos%20tumbas%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1GWDodKrziDGOWeNc1ezJVqTfcr.jpg" group-title="Netflix",The Accident (2024)
+https://dl.dropbox.com/scl/fi/ifit3bc3srzgjrtcxxsoj/The-Accident-2024?rlkey=3oe6ve0390jjsnyjctmee2g6m&st=1vdei6ah&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/auBp8c189r2G5rd34wbwQ18YwHa.jpg" group-title="Netflix",en fuga (2026)
+https://dl.dropbox.com/scl/fi/7vjfpsy8jsaj3d4ycgt96/en-fuga-2026?rlkey=x5r3abrzy1pd803z39k7udssj&st=2s514l0n&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg" group-title="Netflix",las muertas (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/las%20muertas%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kAy0vnaxCPcLrmPCHWgfwWoWelL.jpg" group-title="Netflix",Land of Sin (2026)
+https://dl.dropbox.com/scl/fi/k7gublhaa9f8wwdcb0ygw/Land-of-Sin-2026?rlkey=iuvbuwaro37ptv1u4c5493h71&st=d2yg5sjz&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hpeaMzflHMEepUGiCjXld7lrnC2.jpg" group-title="Netflix",Marianne (2019)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Marianne%20(2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/36XZcHgim0NlxT6y2we4twWZD4A.jpg" group-title="Netflix",Lucifer (2016)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Lucifer%20(2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fNJarIm84EcMPISFtRXuT56rqVI.jpg" group-title="Netflix",mercado (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/mercado%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odIyR46aAX59dvQ1ON4P53ow1aE.jpg" group-title="Netflix",dia cero (2015)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/D%C3%ADa%20cero%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9KWjsphxIbv0eJykbUafGKxCEHv.jpg" group-title="Netflix",gatillo (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/gatillo%20(2025)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tokio14-dot/imagen/refs/heads/main/unicor.jpg" group-title="Netflix",Unicornio salvaje (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Unicornio%20salvaje%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wFvfqUNUSxjT3zDOKhryKiV9YEt.jpg" group-title="Netflix",MERLINA (2022)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/merlina%20(2022)2.0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/15g7XBiKyzHh9D6ZV5kls5JyVJz.jpg" group-title="Netflix",Man vs Baby (2025)
+https://dl.dropbox.com/scl/fi/il376vk9yb0lkpric8cwk/Man-vs-Baby-2025?rlkey=qi21q0gz9f5u2dl9l0ip19ljr&st=ilr93woo&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg" group-title="Netflix",Weak Hero (2022)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Weak%20Hero%20(2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hGtsGoccGg87FBqsokkoyHWX9cL.jpg" group-title="Netflix",Bulgasal: Almas inmortales (2021)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Bulgasal%20Immortal%20Souls%20(2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/drpeMcOyFlaoSP2R5ZkWgbqLfDK.jpg" group-title="Netflix",amor de oficina (2026)
+https://dl.dropbox.com/scl/fi/gwafggkaaea0ctophxvfs/Love-from-9-to-5-2026?rlkey=t5he68kid9zfegqkmva0mo9mx&st=qwr3qwgi&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jJkrVVMuiQyrYwHp8gMKWANDntF.jpg" group-title="Netflix",Los supervivientes (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Los%20supervivientes%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wZScARSgDCrGuqXTqHQvKBgz2Lt.jpg" group-title="Netflix",Los abandonos (2025)
+https://dl.dropbox.com/scl/fi/umyq6bejlh89gbn302llv/Los-abandonos-2025?rlkey=q6efo9c503a2n1f0z6nxfbgx5&st=koyhmfgv&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fr57huR86UiVWJr6C7S8wRaghZw.jpg" group-title="Netflix",La bestia en mí (2025)
+https://dl.dropbox.com/scl/fi/gqsnlizppw94sgxlk5ju9/La-bestia-en-m-2025?rlkey=9pq3oh7k1pz14j93xd5mxvsaf&st=h254imzr&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gut76EbVg6UoMKm3tBXDaAhAP1G.jpg" group-title="Netflix",Los gringo hunters (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Los%20gringo%20hunters%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfJ1nBnqiiRWZWv3ZvtFWO5zccg.jpg" group-title="Netflix",The Sandman (2022)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Sandman%20(2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jffhwRp7gdZKiUDelXQSg0jtT76.jpg" group-title="Netflix",Division Palermo (2023)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Divisi%C3%B3n%20Palermo%20(2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg" group-title="Netflix",El juego del calamar
+https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/calammar%201
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jPJiBzIb0TuqUAEJ7L8WNQ39nh7.jpg" group-title="Netflix",Sol negro (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Sol%20negro%20(2025)
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cyberpunk-edgerunners-2-1669011318.jpg" group-title="Netflix",Cyberpunk:Edgerunners (2022) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Cyberpunk
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zEPdAqxCdvHuOAVwbr8tWCQK6A0.jpg" group-title="Netflix",Terminator Zero (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Terminator%20Zero
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/fDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg" group-title="Netflix",El Eternauta (2025)
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/El%20Eternauta
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI TEMPORADA 6 LATINO
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Cobra%20kai%20temporada%206
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5frjq2ZQ6UysQGCZY4Fh36dmAUd.jpg" group-title="Netflix",La agente encubierta(2015)
+https://dl.dropbox.com/scl/fi/tfebjzqggzr8m6tq0wdpc/La-agente-encubierta-2015?rlkey=4ej12qaz3qso6kej1zujqvauq&st=die4jedr&.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg" group-title="Netflix",The Umbrella Academy
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/The%20Umbrella%20Academy
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg" group-title="Netflix",Arnold (2023)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Arnold%20(2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ly6jaxMxzha70e0mQIFRJpPxXJG.jpg" group-title="Netflix",Taskaree La red del contrabandista (2026)
+https://dl.dropbox.com/scl/fi/ztanjqcwafca3dtsrekgq/Taskaree-La-red-del-contrabandista-2026?rlkey=f0v5y7cppvozogdf7cpc012zh&st=4s5fqeov&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/fsQ2KHbZk12z3h3dba2ActMEudj.jpg" group-title="Netflix",One Piece:Live Action (2023) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/One%20piece%20live%20action
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg" group-title="Netflix",Stranger Things (2016)
+https://dl.dropbox.com/scl/fi/5chyx5mhsm6ud73qr3gxq/Stranger-Things-2016?rlkey=qxhj7wmyw1uxd3oym3fa46dsi&st=b3h0deey&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6rUEuEfaFAyhR4PJV5FRxcGzkrS.jpg" group-title="Netflix",El monstruo de Florencia (2025)
+https://dl.dropbox.com/scl/fi/uj9p1jsavr6spexlov1py/Monstruo-de-Florencia-2025.m3u?rlkey=10fxbl13y4vmcmjckqo4eiq0a&st=fl5hyyik&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/zfwbbab1yfHAjFbbClh1jYoV8gi.jpg" group-title="Netflix",Parasyte:Los grises (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Parasyte%20los%20grises
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cortar-por-la-linea-de-puntos-1689749846.png" group-title="Netflix",Cortar por la linea de puntos castellano (2021)
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Cortar%20por%20la%20linea%20de%20puntos
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Netflix",Los Bridgerton (2024)
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/Bridgestone
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/thkeCJlHhBj2LmxqR7kfHYzOsl9.jpg" group-title="Netflix",Los detectives difuntos (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Los%20detectives%20difuntos
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ulGaOy0dUXAm8V2XRmIrQ3xE8lt.jpg" group-title="Netflix",Avatar:La leyenda de aang live action (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Avatar%20live%20action
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BETTER CALL SAUL.jpg" group-title="Netflix",BETTER CALL SAUL
+http://archive.org/download/ns_20210520/saul.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DAYBREAK.jpg" group-title="Netflix",DAYBREAK
+http://archive.org/download/t-1dbfifkdudkx_202010/T1dbfifkdudkx.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NACION Z.jpg" group-title="Netflix",NACION Z
+http://archive.org/download/ns_20210520/NACION%20Z.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DRAMA TOTAL.jpg" group-title="Netflix",DRAMA TOTAL
+http://archive.org/download/ns_20210520/DRAMATOTAL.m3u
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/bojack_horseman-687229611-mmed.jpg" group-title="Netflix",BOJACK HORSEMAN
+http://archive.org/download/ns_20210520/BOJA.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",EL JUEGO DEL CALAMAR
+https://archive.org/download/elch4v0/calam.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ARROW.jpg" group-title="Netflix",ARROW
+http://archive.org/download/ns_20210520/arrow.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vkGnVBSNpayJ1oCfyVaMvhrim95.jpg" group-title="Netflix",LUCIFER
+https://archive.org/download/elch4v0/luc1f3r.m3u
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qjUn6GVZVDifLHB7bvVrgZsOfzE.jpg" group-title="Netflix",XINA
+https://dl.dropbox.com/s/qybhybywfjkupuq/xen4.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CASA DE FLORES.jpg" group-title="Netflix",CASA DE FLORES
+http://archive.org/download/ns_20210520/casa%20de%20flores%20.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK MIRROR.jpg" group-title="Netflix",BLACK MIRROR
+http://archive.org/download/ns_20210520/BLACK%20MIRR.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CASTLEVANIA.jpg" group-title="Netflix",CASTLEVANIA
+http://archive.org/download/ns_20210520/CASTEL.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLUB DE CUERVOS.jpg" group-title="Netflix",CLUB DE CUERVOS
+http://archive.org/download/ns_20210520/CLUBCUERVOS.m3u
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg" group-title="Netflix",THE CROWN
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Temporadas%20The%20crown
+#EXTINF:-1 tvg-logo="https://repro12.estrenosdoramas.us/Sisyphus.png" group-title="Netflix",EL MITO DE SISIFO
+https://archive.org/download/elch4v0/sisy.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLOSE ENOUGH.jpg" group-title="Netflix",CLOSE ENOUGH
+http://archive.org/download/clo-eno/Clo%20Eno.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ohGz4HDYGTite1GmRhRuBMVAn03.jpg" group-title="Netflix",Arcane (2021)
+https://archive.org/download/si2_20220111/arck.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FINAL SPACE.jpg" group-title="Netflix",FINAL SPACE
+http://archive.org/download/ns_20210520/FINAL.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ELITE.jpg" group-title="Netflix",ELITE
+https://archive.org/download/elch4v0/Elite.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOCKE AND KEY.jpg" group-title="Netflix",LOCKE AND KEY
+http://archive.org/download/ns_20210520/lock.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBlZmE4YzItNTY5Mi00NmIxLTlhZTAtOWIxNjFlNTMzNmI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",KINGDOM
+https://archive.org/download/elch4v0/kindo.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/b34ckm4.jpg" group-title="Netflix",EL MUNDO DE BEAKMAN {1992}
+http://archive.org/download/ns_20210520/BECMAN.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GUAU QUE AMIGO.jpg" group-title="Netflix",GUAU QUE AMIGO
+http://archive.org/download/ns_20210520/GUAU.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/archive-81-2-1642252803.jpg" group-title="Netflix",Archivo 81 (2022) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Archivo%2081
+#EXTINF:-1 tvg-logo="https://www23.estrenosdoramas.net/wp-content/uploads/2020/02/My_Holo_Love.jpg?x64181" group-title="Netflix",MY HOLO LOVE
+https://archive.org/download/elch4v0/my%20holo%20love.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ikqlGaEt9lv9LEUX02LO9fNJ0x4.jpg" group-title="Netflix",Peaky Blinders
+https://archive.org/download/elch4v0/P3KY.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/HIGH SCORE.jpg" group-title="Netflix",HIGH SCORE
+http://archive.org/download/ns_20210520/high%20score.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI
+https://archive.org/download/si2_20220111/CK.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE PAPEL.jpg" group-title="Netflix",LA CASA DE PAPEL
+http://archive.org/download/ns_20210520/la%20casa%20de%20pape.m3u
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rumbo-al-infierno-1669344118.png" group-title="Netflix",Rumbo al infierno (2021) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Rumbo%20al%20infierno
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-midnight-gospel-1587583248.jpg" group-title="Netflix",The midnight gospel (2020) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/The%20midnight%20gospel
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/KINGS AVATAR.jpg" group-title="Netflix",KINGS AVATAR
+http://archive.org/download/ns_20210520/KINGA.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE LAS FLORES.jpg" group-title="Netflix",LA CASA DE LAS FLORES
+http://archive.org/download/ns_20210520/LACASADELASFLORES.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LEJOS.jpg" group-title="Netflix",LEJOS
+http://archive.org/download/t-1la/T1la.m3u
+#EXTINF:-1 tvg-logo="https://www.clarin.com/img/2024/04/22/xCel-AVbY_720x0__1.jpg" group-title="Netflix",bebe reno (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/bebe%20reno
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/dw7jYk7EdrkrHozG7F1Yg2eFJTm.jpg" group-title="Netflix",Black Mirror temporada 7 (2025) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Black%20Mirror%20temporada%207
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyNDE5YTYtZGVhNC00ZGMxLWIxNmItNDBiYWUwODQ5ZWY1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="Netflix",RESIDENT EVIL LA TINIEBLA INFINITA
+https://archive.org/download/elch4v0/residevil.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzEzMzM2ODc1Ml5BMl5BanBnXkFtZTcwMTg2MjAzMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Netflix",0,182,268_AL_.jpg" group-title="Netflix",SALVADOS POR LA CAMPANA
+https://archive.org/download/elch4v0/salcam1.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/jSL90vBj3GdGpUbU8L9uGoEFDen.jpg" group-title="Netflix",Serpientes y Escaleras (2025) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Serpientes%20y%20Escaleras
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/syY5tQzZDdiwGx71cj1Zz4rtrDL.jpg" group-title="Netflix",Devil May Cry (2025) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Devil%20May%20Cry
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w130_and_h195_bestv2/kNbFLwPaFhWqPo8bB8T1kbpf51Q.jpg" group-title="Netflix",El juego del calamar temporada 3 (2025) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/El%20juego%20del%20calamar%20temporada%203
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6061/68c942f64555dfba90e3f78c25317b5be581359f_hq.jpg" group-title="Netflix",PINOCCHIO
+https://archive.org/download/ns_20210520/pinocho.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL ROBO DEL SIGLO.jpg" group-title="Netflix",EL ROBO DEL SIGLO
+http://archive.org/download/t-1erdsfugjxuv/T1erdsfugjxuv.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/b1IBsimEJOLjBLYsdBZ1VAcmq73.jpg" group-title="Netflix",Rebelde (2022)
+https://archive.org/download/si2_20220111/reb.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/losmejoresexitos/c4mpcr35.jpg" group-title="Netflix",Jurassic WordlCampamento Crustaceo
+http://archive.org/download/losmejoresexitos/tempfd.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/TROLLHUNTER.jpg" group-title="Netflix",TROLLHUNTER
+http://archive.org/download/ns_20210520/trollhunter.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL MUNDO OCULTO DE SABRINA.jpg" group-title="Netflix",EL MUNDO OCULTO DE SABRINA
+http://archive.org/download/kuhlman_1/Series/series/El%20mundo%20oculto%20de%20sabrina%20opc%202.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIKINGOS.jpg" group-title="Netflix",VIKINGOS
+http://archive.org/download/113y-3s/VK.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/RAGNAROK.jpg" group-title="Netflix",RAGNAROK
+http://archive.org/download/ns_20210520/ragnar.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/OSCURO DESEO .jpg" group-title="Netflix",OSCURO DESEO
+http://archive.org/download/t-1odcnkdbejrvq/T1odcnkdbejrvq.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NICKY JAM EL GANADOR.jpg" group-title="Netflix",NICKY JAM EL GANADOR
+http://archive.org/download/ns_20210520/ELGAN.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SEX EDUCATION.jpg" group-title="Netflix",SEX EDUCATION
+http://archive.org/download/ns_20210520/seed.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SANTA CLARITA DIET.jpg" group-title="Netflix",SANTA CLARITA DIET
+http://archive.org/download/ns_20210520/SANDIE.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STRANGER THINGS.jpg" group-title="Netflix",STRANGER THINGS
+http://archive.org/download/ns_20210520/stin.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk4ZDRhYzEtZWExNy00MjIyLTgyYmMtN2Y2MzA4YzZhZTZmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",Sweet Tooth
+https://archive.org/download/elch4v0/sweedr.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ESTA MIERDA ME SUPERA .jpg" group-title="Netflix",ESTA MIERDA ME SUPERA
+http://archive.org/download/esta-mierda-me-supera/Esta%20mierda%20me%20supera.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNhY2JlMmItMGMzZi00ZTM2LTlmNTItZDBkMGVhNGJhYWRhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Netflix",SOMBRA Y HUESO
+https://archive.org/download/elch4v0/huesom.m3u
+#EXTINF:-1 tvg-logo="https://www23.estrenosdoramas.net/wp-content/uploads/2020/01/Touch.jpg" group-title="Netflix",TOUCH
+https://archive.org/download/elch4v0/TOUCH.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/TITANS.jpg" group-title="Netflix",TITANS
+http://archive.org/download/ns_20210520/TITAN.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE END OF THE WORD.jpg" group-title="Netflix",THE END OF THE WORD
+http://archive.org/download/macross-frontier/the%20end%20of%20the%20world00.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIZ A VIZ.jpg" group-title="Netflix",VIZ A VIZ
+http://archive.org/download/t-5vavfufjfkxksu/T5vavfufjfkxksu.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE KING THE ETERNAL MONARCH.jpg" group-title="Netflix",THE KING THE ETERNAL MONARCH
+http://archive.org/download/king_20201210/KING.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK SUMMER.jpg" group-title="Netflix",BLACK SUMMER
+http://archive.org/download/black-summer-serie/BLACK%20SUMMER%20%20SERIE.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SED DE REVANCHA GET EVEN.jpg" group-title="Netflix",SED DE REVANCHA GET EVEN
+http://archive.org/download/sedven/sedven.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SWEET HOME.jpg" group-title="Netflix",SWEET HOME
+http://archive.org/download/sweethome_202101/SWEETHOME.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GAMBITO DE DAMA.jpg" group-title="Netflix",GAMBITO DE DAMA
+http://archive.org/download/gam_20201208/GAM.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE OFFICE.jpg" group-title="Netflix",THE OFFICE
+http://archive.org/download/theoffice-1/THEOFFICE.m3u
+#EXTINF:0 genre="Animation",Cosmos Laundromat - First Cycle (2K)
+https://media.xiph.org/cosmoslaundromat/Cosmos_Laundromat_First_Cycle_2k.mp4
+#EXTINF:0 genre="Animation",Cosmos Laundromat - Bande-annonce
+https://media.xiph.org/cosmoslaundromat/Pilot_Trailer_Cosmos_Laundromat.mp4
+#EXTINF:0 genre="Cinéma",Tears of Steel (film libre - 1080p)
+https://media.xiph.org/mango/tears_of_steel_1080p.webm
+#EXTINF:-1,Deutsche Welle English (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,Deutsche Welle Latino (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015530/dwstream103/index.m3u8
+#EXTINF:-1,Sky News Arabia (1080p)
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1,M6 (1080p)
+http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1,TF1 HD (720p)
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1,Canal+ Cinemas (720p)
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1,Rai 2 (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:-1 tvg-id="20MinutesTV.fr@SD",20 Minutes TV (1080p)
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD",Africanews English (720p)
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:-1 tvg-id="AfricanewsFrench.fr@SD",Africanews French (720p)
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-id="BFMBusiness.fr@SD",BFM Business (576p)
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMLyon.fr@SD",BFM Lyon (576p)
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr@SD",BFM TV (576p)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BrionnaisTV.fr@SD",Brionnais TV (720p)
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:-1 tvg-id="CStar.fr@SD",C Star (477p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+#EXTINF:-1 tvg-id="CannesLerinsTV.fr@SD",Cannes Lérins TV (1080p)
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 tvg-id="CinePlusClassic.fr@SD",Cine+ Classic
+http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 tvg-id="CNews.fr@SD",CNews (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 tvg-id="CNEWSPRIME.fr@HD",CNEWS PRIME (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
+#EXTINF:-1 tvg-id="DBMTV.fr@SD",DBM TV (1080p)
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Equidia.fr@SD",Equidia (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-id="",Equidia Racing Mag (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD",Euronews English (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD",Euronews English HD (720p)
+http://45.190.28.50/EURONEWS_HD/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsFrench.fr@SD",Euronews French (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD",Euronews German (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsGreek.fr@SD",Euronews Greek (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD",Euronews Hungarian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsItalian.fr@SD",Euronews Italian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD",Euronews Portuguese (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD",Euronews Russian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD",Euronews Russian
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD",Euronews Spanish (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+#EXTINF:-1 tvg-id="EvandisGospelTV.fr@SD",Evandis Gospel TV (1080p)
+https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD",FashionTV Paris L'Original (1080p)
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD",FashionTV Secrets (1080p)
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
+#EXTINF:-1 tvg-id="France3.fr@CotedAzur",France 3 Cote d'Azur
+http://89.187.185.76:8080/France3/index.m3u8
+#EXTINF:-1 tvg-id="France3.fr@Lorraine",France 3 Lorraine (1080p)
+http://5.180.164.197:8080/FRANCE3/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic",France 24 Arabic (1080p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic",France 24 Arabic (1080p)
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic",France 24 Arabic (720p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic",France 24 Arabic (720p)
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic",France 24 Arabic (576p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic",France 24 Arabic (576p)
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic",France 24 Arabic (360p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Arabic",France 24 Arabic (360p)
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (1080p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (1080p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (720p)
+http://170.83.16.50/FRANCE_24/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (720p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (720p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (576p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (576p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (360p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (360p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Español (720p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Español (720p)
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Español (576p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Español (576p)
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Español (360p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Español (360p)
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French",France 24 French (1080p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French",France 24 French (1080p)
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French",France 24 French (720p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French",France 24 French (720p)
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French",France 24 French (576p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French",France 24 French (576p)
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French",France 24 French (360p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French",France 24 French (360p)
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Spanish (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Francophonie24.fr@SD",Francophonie24 (1080p)
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GenerationsTV.fr@SD",Generations TV (576p)
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="Gong.fr@SD",Gong (1080p)
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr@SD",Gulli
+http://99.27.51.147:8080/Gulli/index.m3u8
+#EXTINF:-1 tvg-id="HANDICAPTV.fr@SD",HANDICAP TV France
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-id="ILTV.fr@SD",ILTV (720p)
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (1080p)
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (720p)
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 tvg-id="LittoralFMTV.fr@SD",Littoral FM (720p)
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MDL.fr@SD",MDL (720p)
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MezzoLive.fr@SD",Mezzo Live (1080p)
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 tvg-id="MTV.fr@SD",MTV
+http://99.27.51.147:8080/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MyZenTV.fr@SD",MyZen TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD",Nickelodeon Junior (1080p)
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 tvg-id="P2MTV.fr@SD",P2M TV (720p)
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+#EXTINF:-1 tvg-id="PuissanceTV.fr@SD",Puissance TV
+https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+#EXTINF:-1 tvg-id="SciFi.fr@HD",SciFi (720p)
+http://41.205.93.154/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD",Sony One Blacklist (1080p)
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD",Sony One Favoris (1080p)
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD",Sony One Hits Action (1080p)
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD",Sony One Hits Comedie (1080p)
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Syfy.fr@SD",Syfy
+http://99.27.51.147:8080/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="T18.fr@HD",T18 (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@SD",TMC (1080p)
+http://151.80.18.177:86/TMC/index.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@Russia",Trace Sport Stars Russia (720p)
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@SD",Trace Sport Stars SD
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
+#EXTINF:-1 tvg-id="TV3V.fr@SD",TV3V (720p)
+https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD",TV5Monde Africa (720p)
+http://5.9.121.178/tv5monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia (1080p)
+http://54.37.19.157/TV5MONDE/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia (576p)
+http://27.131.164.187:8080/TV5_Monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia
+http://103.172.187.30:12000/stream/allchannel/tv5asie
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD",TV5MONDE Chefs (1080p)
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD",TV5Monde Europe (1080p)
+http://5.180.164.197:8080/TV5MONDE/index.m3u8
+#EXTINF:-1 tvg-id="TV7Colmar.fr@SD",TV7 Colmar (576p)
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlsace.fr@HD",TV Alsace (1080p)
+http://194.163.157.137:8080/hls/radioalsace.m3u8
+#EXTINF:-1 tvg-id="TVMulhouse.fr@HD",TV Mulhouse (1080p)
+http://194.163.157.137:8080/hls/radiomulhouse.m3u8
+#EXTINF:-1 tvg-id="ViaMatele.fr@SD",ViàMatélé (1080p)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 tvg-id="VosgesTV.fr@SD",Vosges Télévision (576p) [Not 24/7]
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 tvg-id="zenith.fr@HD",zenith (1080p)
+https://live.azenagroup.com/zenith/index.ll.m3u8
+#EXTINF:-1 tvg-id="zenith.fr@HD",zenith (1080p)
+https://live.azenagroup.com/zenith/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia (576p)
+https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD",Euronews Spanish (1080p)
+https://iptv.bitred.cl/euronews/index.m3u8
+#EXTINF:-1 tvg-id="123tv.de@SD",1-2-3 TV (270p)
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 tvg-id="AdriaMusicTelevision.de@SD",Adria Music Television
+https://adriaapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD",Adventure Earth (720p)
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlexBerlin.de@SD",Alex Berlin (1080p)
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
+#EXTINF:-1 tvg-id="AllgauTV.de@SD",Allgäu TV (1080p)
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AltenburgTV.de@SD",Altenburg TV
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de@SD",ARD-alpha (720p)
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="AugsburgTV.de@SD",Augsburg TV (1080p)
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AugsburgTV.de@SD",Augsburg TV (a.tv) (1080p) [Not 24/7]
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTV.de@SD",Bibel TV (720p)
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTVImpuls.de@SD",Bibel TV Impuls (720p)
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTVMusik.de@SD",Bibel TV Musik (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BRFernsehen.de@Nord",BR Fernsehen Nord (720p)
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehen.de@Sud",BR Fernsehen Sud (1080p)
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de@SD",Chemnitz Fernsehen (1080p)
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="CiraTV.de@SD",Cira TV (1080p)
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+#EXTINF:-1 tvg-id="DasErste.de@HD",Das Erste HD (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="DASDING908.de@SD",DASDING 90.8 (720p)
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 tvg-id="DeluxeDance.de@SD",Deluxe Dance (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeMusic.de@SD",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeRap.de@SD",Deluxe Rap (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="DMF.de@SD",DMF (1080p) [Not 24/7]
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dokusat.de@SD",Dokusat (1080p)
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenDresden.de@SD",Dresden Fernsehen (1080p) [Not 24/7]
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de@Arabic",DW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@English",DW English (1080p)
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-id="DW.de@English",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@English",DW English (720p)
+http://45.190.28.50/DW/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English",DW English (720p)
+http://170.83.16.50/DW/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English",DW English (720p)
+https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DW.de@English",DW English (576p)
+http://stream.mcquack.net/440/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@Espanol",DW Espanol (1080p)
+http://177.234.249.178:8888/DW/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@Espanol",DW Espanol (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-id="DW.de@Espanol",DW Espanol (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16660
+#EXTINF:-1 tvg-id="DW.de@Russian",DW Russian (1080p)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 tvg-id="EchtJetztTV.de@SD",EchtJetzt TV (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ErzTVStollberg.de@SD",Erz-TV Stollberg (576p)
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Filstalwelle.de@SD",Filstalwelle (1080p)
+https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="FolxMusicTelevision.de@SD",Folx Music Television
+https://folxapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="FrankenFernsehen.de@SD",Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="",FrankenPlus (1080p)
+https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="hrfernsehen.de@SD",hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="HSE.de@SD",HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 tvg-id="HSEExtra.de@SD",HSE24 Extra (1080p)
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 tvg-id="HSETrend.de@SD",HSE24 Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 tvg-id="iSTUFF.de@SD",iSTUFF (720p) [Not 24/7]
+https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+#EXTINF:-1 tvg-id="Juwelo.de@SD",Juwelo (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1 tvg-id="KaufBeiTV.de@SD",KaufBei TV (576p)
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+#EXTINF:-1 tvg-id="KaufBeiTV.de@SD",KaufBei TV
+https://elephant.t62a.com/hls/8103/index.m3u8
+#EXTINF:-1 tvg-id="KiKA.de@SD",KiKA (1080p) [Not 24/7]
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+#EXTINF:-1 tvg-id="KulturMD.de@SD",KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="labor14.de@HD",labor14 (720p)
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Lausitzwelle.de@SD",Lausitzwelle (1080p)
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de@SD",Leipzig Fernsehen (1080p)
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="LightChannel.de@SD",Light Channel (576p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 tvg-id="MCTV.de@HD",MC TV (720p)
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="MDF1.de@SD",MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="Motorvision.de@SD",Motorvision (576p)
+http://hls127.freeott.top:8080/Motorvision/video.m3u8
+#EXTINF:-1 tvg-id="Motorvision.de@SD",Motorvision TV (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="MunchenTV.de@SD",München TV (1080p) [Not 24/7]
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="NashKinomir.de@SD",Nash Kinomir (576p)
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD",NDR Fernsehen International (720p)
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg",NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@MecklenburgVorpommern",NDR Mecklenburg-Vorpommern (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Niedersachsen",NDR Niedersachsen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehen.de@SchleswigHolstein",NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de@SD",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+#EXTINF:-1 tvg-id="NiederbayernTV.de@SD",Niederbayern TV (720p)
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de@SD",Niederbayern TV Deggendorf & Straubing (1080p)
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de@SD",Niederbayern TV Landshut (1080p) [Not 24/7]
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de@SD",Niederbayern TV Landshut (1080p)
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVPassau.de@SD",Niederbayern TV Passau (1080p)
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="noa4Hamburg.de@SD",Noa 4 Hamburg (1080p)
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="noa4Norderstedt.de@SD",Noa 4 Norderstedt (1080p)
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="NRWision.de@SD",NRWision (1080p)
+https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OberpfalzTV.de@SD",Oberpfalz TV (1080p)
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="OKDessau.de@SD",OK Dessau (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKFlensburg.de@SD",OK Flensburg (576p)
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1 tvg-id="OKKiel.de@SD",OK Kiel (576p)
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+#EXTINF:-1 tvg-id="OKMagdeburg.de@SD",OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de@SD",OK Merseburg-Querfurt (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSalzwedel.de@SD",OK Salzwedel (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de@SD",OK Stendal (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de@SD",OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWernigerode.de@SD",OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWernigerode.de@SD",OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAdria.de@SD",One Adria
+https://oneadriaapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="OneMusicTelevision.de@SD",One Music Television
+https://oneapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="OstWest.de@SD",Ost West (576p)
+http://hls127.freeott.top:8080/OstWest/video.m3u8
+#EXTINF:-1 tvg-id="OstWest24.de@SD",Ost West 24 (1080p)
+http://stream.mcquack.net/455/index.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD",Parlamentsfernsehen 1 (1080p) [Not 24/7]
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-id="PUNKTumFernsehen.de@SD",PUNKTum Fernsehen (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-id="QVCZwei.de@SD",QVC 2 Germany (540p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 tvg-id="QVC.de@SD",QVC Germany (720p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1 tvg-id="QVCStyle.de@SD",QVC Style Germany (540p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de@SD",Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de@SD",Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RAN1.de@SD",RAN1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RBW.de@SD",RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVBodensee.de@SD",Regio TV Bodensee (1080p)
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVStuttgart.de@SD",Regio TV Stuttgart (1080p)
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RFH.de@SD",RFH (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RFH.de@SD",RFH (1080p)
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8
+#EXTINF:-1 tvg-id="RiC.de@SD",RiC (1080p)
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 tvg-id="RockAntenne.de@SD",Rock Antenne [Not 24/7]
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 tvg-id="RTDE.de@SD",RT DE (1080p) [Not 24/7]
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDE.de@SD",RT DE (1080p) [Not 24/7]
+https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen1.de@SD",Saarland Fernsehen 1 (1080p)
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen2.de@SD",Saarland Fernsehen 2 (720p) [Not 24/7]
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenEins.de@SD",Sachsen Eins (1080p)
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Seenluft24.de@SD",Seenluft24 (1080p)
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="SonnenklarTV.de@SD",Sonnenklar TV (1080p)
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 tvg-id="SRFernsehen.de@SD",SR Fernsehen (720p)
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-id="RTLSuper.de@HD",Super RTL HD (720p)
+https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de@SD",SWR 3 Visual Radio (720p)
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de@SD",Tagesschau 24 (720p)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="teltOwkanal.de@SD",teltOwkanal (1080p)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
+#EXTINF:-1 tvg-id="TerraMaterWILD.de@English",Terra Mater WILD English (1080p)
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-id="TV38SudostNiedersachen.de@SD",TV38 Südost-Niedersachen (1080p)
+https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="TVIngolstadt.de@SD",TV Ingolstadt (1080p)
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMainfranken.de@SD",TV Mainfranken (1080p) [Not 24/7]
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOberfranken.de@SD",TV Oberfranken (TVO) (1080p) [Not 24/7]
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.de@SD",TVA (1080p) [Not 24/7]
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRUSPlus.de@HD",TVRUS+
+http://83.228.75.166:8000/play/a0aq
+#EXTINF:-1 tvg-id="VolksmusikTV.de@SD",Volksmusik TV (1080p)
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="WDR1Live.de@SD",WDR 1 Live (720p)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 tvg-id="WDR1Live.de@SD",WDR 1 Live (720p)
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln",WDR Fernsehen (720p)
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD",Welt der Wunder TV (576p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-id="YOLTV.de@SD",YOL TV
+https://live.yoltv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ZweiMusicTelevision.de@SD",Zwei Music Television
+https://zweiapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English",DW English (576p)
+https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV.de@SD",MTV
+https://ma.anixa.tv/clips/stream/mtv/playlist.php
+#EXTINF:-1 tvg-id="ComedyCentral.de@SD",Comedy Central
+https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
+#EXTINF:-1 tvg-id="7RadioVisione.it@HD",7 RadioVisione (720p)
+https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="12TVParma.it@SD",12 TV Parma (540p) [Not 24/7]
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="50Canale.it@SD",50 Canale
+https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
+#EXTINF:-1 tvg-id="7080TV.it@SD",70-80 TV (1080P)
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-id="111TV.it@SD",111 TV (720p)
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iTV.it@SD",A2i TV (1080p)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ACISportTV.it@SD",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 tvg-id="AltoAdigeTV.it@SD",Alto Adige TV (720p)
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Antenna2TV.it@SD",Antenna 2 TV (720p)
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AuroraArte.it@SD",Aurora Arte (480p)
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+#EXTINF:-1 tvg-id="AzzurraTV.it@SD",Azzurra TV (576p)
+https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
+#EXTINF:-1 tvg-id="BeJoykids.it@HD",BeJoy.kids (1080p)
+https://stream.paroledivita.org/bejoy.m3u8
+#EXTINF:-1 tvg-id="BergamoTV.it@SD",Bergamo TV (1080p)
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="BomChannel.it@SD",Bom Channel (720p)
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 tvg-id="CafeTV24.it@SD",CafeTV24 (720p)
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CalabriaTV.it@SD",Calabria TV
+https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CameradeiDeputati.it@SD",Camera dei Deputati (via RR) (240p)
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 tvg-id="Canale2Altamura.it@SD",Canale 2 Altamura (576p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:-1 tvg-id="Canale7.it@SD",Canale 7 (480p)
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:-1 tvg-id="Canale7.it@SD",CANALE 7 (480p)
+http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
+#EXTINF:-1 tvg-id="Canale8.it@SD",Canale 8 (480p)
+http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
+#EXTINF:-1 tvg-id="Canale8.it@SD",CANALE 8 (480p)
+http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
+#EXTINF:-1 tvg-id="CasaItalia53.it@SD",Casa Italia 53 (720p)
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CompanyTV.it@SD",Company TV (720p)
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 tvg-id="CusanoItaliaTV.it@SD",Cusano Italia TV (720p)
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DeejayTV.it@SD",Deejay TV (1080p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="DellaTV.it@HD",DellaTV (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
+#EXTINF:-1 tvg-id="Deluxe139.it@SD",Deluxe 139 (480p)
+https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
+#EXTINF:-1 tvg-id="DITV80.it@SD",DI.TV 80 (720p)
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+#EXTINF:-1 tvg-id="EliveTVBrescia.it@SD",Elive TV Brescia (720p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 tvg-id="EntellaTV.it@SD",Entella TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="EsperiaTV.it@SD",Esperia TV (480p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="EsperiaTV.it@SD",Esperia TV (480p)
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="EtnaEspressoChannel.it@SD",Etna Espresso Channel (720p)
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+#EXTINF:-1 tvg-id="eTvMarche.it@SD",èTv Marche (720p)
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="eTvRete7.it@SD",èTv Rete 7 (720p)
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it@SD",Euro Indie Music Chart TV (360p)
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroTV.it@SD",Euro TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-id="FMITALIA.it@SD",FM ITALIA (1080p)
+https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GiornaleRadioTV.it@SD",Giornale Radio TV (720p)
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="GiovanniPaoloTV.it@SD",Giovanni Paolo TV (1080p)
+https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
+#EXTINF:-1 tvg-id="GOTVCanale163.it@SD",GO-TV Canale 163 (720p)
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldTV.it@SD",Gold TV
+https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8
+#EXTINF:-1 tvg-id="GRPVERATV.it@SD",GRP VERATV (576p)
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
+#EXTINF:-1 tvg-id="IcaroTV.it@SD",Icaro TV (720p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ItalianFishingTV.it@SD",Italian Fishing TV (1080p)
+https://fms.premio.link/fishingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="IuniorTV.it@SD",Iunior TV (1080p)
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+#EXTINF:-1 tvg-id="IuniorTV.it@SD",Iunior TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 tvg-id="Juwelo.it@SD",Juwelo Italia (480p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
+#EXTINF:-1 tvg-id="KissKissNapoliTV.it@SD",Kiss Kiss Napoli TV (720p)
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="KissKissTV.it@SD",Kiss Kiss TV (1080p)
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="KissKissTV.it@SD",Kiss Kiss TV (720p)
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="KissKissTV.it@SD",Kiss Kiss TV (720p)
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LaltroCorriereTV.it@SD",L'altro Corriere TV
+https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
+#EXTINF:-1 tvg-id="LaCTV.it@SD",La C TV (720p)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+#EXTINF:-1 tvg-id="LaNuovaTV.it@SD",La Nuova TV
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="LaTR3Marsala.it@SD",La TR3 Marsala (720p)
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 tvg-id="LaCNews24.it@SD",LaC News 24 (720p)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+#EXTINF:-1 tvg-id="LeCronacheTV.it@SD",Le Cronache TV (720p)
+http://77.68.40.210:8888/hls/cronache.m3u8
+#EXTINF:-1 tvg-id="LeCronacheTV.it@SD",Le Cronache TV (720p)
+http://stucazz.com:8888/hls/cronache.m3u8
+#EXTINF:-1 tvg-id="LiraTV.it@SD",Lira TV
+https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+#EXTINF:-1 tvg-id="LombardiaTV.it@SD",Lombardia TV
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="m2oTV.it@SD",m2o TV (1080p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-id="MadeinBOTV.it@SD",MadeinBO TV (1080p)
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MariaVisionItalia.it@SD",Maria Vision (1080p)
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
+#EXTINF:-1 tvg-id="MediasetItalia.it@SD",Mediaset Italia (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
+#EXTINF:-1 tvg-id="MediasetItalia.it@Australia",Mediaset Italia Australia (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
+#EXTINF:-1 tvg-id="MediasetItalia.it@USA",Mediaset Italia USA (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
+#EXTINF:-1 tvg-id="MedjugorjeItaliaTV.it@SD",Medjugorje Italia TV (480p)
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MinformoTV.it@SD",Minformo TV (720p)
+https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="NTN.it@SD",NTN (720p)
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OndaNovaraTV.it@SD",Onda Novara TV (720p) [Not 24/7]
+https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
+#EXTINF:-1 tvg-id="OndaTV.it@SD",Onda TV (568p)
+https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8
+#EXTINF:-1 tvg-id="OrlerTV.it@SD",Orler TV (420p) [Not 24/7]
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OttoChannel.it@SD",Otto Channel (480p)
+https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
+#EXTINF:-1 tvg-id="PaciContemporaryChannel.it@SD",Paci Contemporary Channel (720p)
+https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+#EXTINF:-1 tvg-id="PadrePioTV.it@SD",Padre Pio TV (1080p)
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ParolediVita.it@SD",Parole di Vita (1080p)
+https://stream.paroledivita.org/paroledivita.m3u8
+#EXTINF:-1 tvg-id="PeerTVAltoAdige.it@SD",Peer TV Alto Adige (1280p)
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-id="PeerTVSouthTyrol.it@SD",Peer TV South Tyrol (1280p)
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 tvg-id="PeerTVSudtirol.it@SD",Peer TV Südtirol (1080p)
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-id="PrimaTV.it@SD",Prima TV Sicilia (720p)
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaFree.it@SD",PrimaFree
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+#EXTINF:-1 tvg-id="Primocanale.it@SD",Primocanale (1080p) [Not 24/7]
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PromovideoTV.it@SD",Promovideo TV (486p)
+https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
+#EXTINF:-1 tvg-id="QVC.it@SD",QVC Italia (540p)
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-id="RadioCapitalTiVu.it@HD",Radio Capital TiVu (720p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-id="Radiofreccia.it@SD",Radio Freccia TV (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-id="Radiofreccia.it@SD",Radio Freccia TV (1080p)
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RadioIbizaTV.it@SD",Radio Ibiza TV (720p) [Not 24/7]
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioNorbaTV.it@SD",Radio Norba TV (1080p)
+https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="RadioNumberOne.it@SD",Radio Number One (720p) [Not 24/7]
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioPiterPanTV.it@SD",Radio Piter Pan TV (720p) [Not 24/7]
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioStudioDeltaTV.it@SD",Radio Studio Delta TV (1080p) [Not 24/7]
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTaorminaSicilia.it@SD",Radio Taormina Sicilia (720p) [Not 24/7]
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioZeta.it@SD",Radio Zeta TV (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RadioZeta.it@SD",Radio Zeta TV (1080p)
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RaiItalia.it@EuropeAfrica",Rai Italia (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+#EXTINF:-1 tvg-id="RaiItalia.it@Australia",Rai Italia Australia (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
+#EXTINF:-1 tvg-id="RaiItalia.it@NorthAmericas",Rai Italia North Americas (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+#EXTINF:-1 tvg-id="RaiItalia.it@SouthAmericas",Rai Italia South Americas (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it@SD",Rai Scuola (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it@SD",Rai Storia (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+#EXTINF:-1 tvg-id="RaiSudtirol.it@SD",Rai Sudtirol
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
+#EXTINF:-1 tvg-id="RaiWorldPremium.it@SD",Rai World Premium (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+#EXTINF:-1 tvg-id="RDSSocialTV.it@SD",RDS Social TV (720p)
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 tvg-id="ReggioTV.it@SD",ReggioTV (480p) [Not 24/7]
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rete8.it@SD",Rete 8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:-1 tvg-id="Rete55.it@SD",Rete 55
+https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:-1 tvg-id="ReteBiellaTV.it@SD",Rete Biella TV (720p) [Not 24/7]
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1 tvg-id="ReteOro.it@SD",Rete Oro (720p) [Not 24/7]
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1 tvg-id="ReteTVItalia.it@SD",Rete TV Italia (1080p)
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+#EXTINF:-1 tvg-id="Reteveneta.it@SD",Reteveneta (480p)
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
+#EXTINF:-1 tvg-id="RomanticaTV.it@SD",Romantica TV (1080p)
+https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="RTCTelecalabria.it@SD",RTC Telecalabria (720p) [Not 24/7]
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL1025Best.it@SD",RTL 102.5 Best (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025BroSis.it@SD",RTL 102.5 Bro&Sis (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Caliente.it@SD",RTL 102.5 Caliente (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Disco.it@SD",RTL 102.5 Disco (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Napule.it@SD",RTL 102.5 Napulè (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Traffic.it@SD",RTL 102.5 Traffic (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025TV.it@SD",RTL 102.5 TV (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTMTV.it@SD",RTM TV (1080p)
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP.it@SD",RTP (404p)
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTTRTrento.it@SD",RTTR Trento (720p)
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV38.it@SD",RTV38 (576p)
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="RTV38.it@SD",RTV38 (576p)
+https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="Sportitalia.it@SD",Sportitalia (1080p)
+https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD",Sportitalia Solocalcio (1080p)
+https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD",Sportitalia Solocalcio (1080p)
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Stereo5TV.it@SD",Stereo 5 TV (720p)
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:-1 tvg-id="SuperTV.it@SD",Super TV (720p)
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTV.it@SD",Super TV (720p)
+https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Super TV Brescia (720p)
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 tvg-id="Super.it@SD",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperSix.it@SD",SuperSix Lombardia (720p)
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTennis.it@SD",SuperTennis (1080p)
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 tvg-id="TaurianovaTV.it@HD",Taurianova TV (720p)
+https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleAbruzzo.it@SD",Tele Abruzzo (384p)
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleLiguriaSud.it@SD",Tele Liguria Sud (576p)
+https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleOne16.it@SD",Tele One 16
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleQuattro.it@SD",Tele Quattro (720p)
+https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleQuattro.it@SD",Tele Quattro (480p) [Not 24/7]
+http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleArena.it@SD",TeleArena (480p)
+https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleChiara.it@SD",Telechiara (720p)
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 tvg-id="TelecolorLombardia.it@SD",Telecolor Lombardia (1080p) [Not 24/7]
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
+#EXTINF:-1 tvg-id="Telefoggia.it@SD",Telefoggia (480p) [Not 24/7]
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
+#EXTINF:-1 tvg-id="Telefoggia.it@SD",Telefoggia (480p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+#EXTINF:-1 tvg-id="Telefriuli.it@SD",Telefriuli (1080p)
+https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+#EXTINF:-1 tvg-id="Telegela647.it@SD",Telegela 647
+https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMajg.it@SD",TeleMajg (480p)
+https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemantova.it@SD",Telemantova (1080p)
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMia.it@SD",TeleMia (576p)
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:-1 tvg-id="TeleMiaExtra.it@SD",TeleMia Extra (576p)
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
+#EXTINF:-1 tvg-id="TeleMistretta.it@SD",TeleMistretta (1080p)
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemolise.it@SD",Telemolise (1080p)
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemontecarlo.it@SD",Telemontecarlo (720p)
+https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenova.it@SD",Telenova (720p)
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepace1.it@SD",Telepace 1 (1080p)
+https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepace2.it@SD",Telepace 2 (1080p)
+https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepace3.it@SD",Telepace 3 (1080p)
+https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepace4.it@SD",Telepace 4 (1080p)
+https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TelepaceTrento.it@SD",Telepace Trento (540p)
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleRama.it@SD",TeleRama (576p)
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleromagna.it@SD",Teleromagna (480p)
+https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleSanDomenico.it@SD",TeleSanDomenico (1080p)
+https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Teletricolore.it@SD",Teletricolore (480p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleTusciaSabina2000.it@SD",TeleTusciaSabina 2000 (576p) [Not 24/7]
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TLTMolise.it@SD",TLT Molise (1080p)
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+#EXTINF:-1 tvg-id="TRSport.it@SD",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Benevento.it@SD",TV7 Benevento (288p) [Not 24/7]
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv9Telemaremma.it@HD",tv9 Telemaremma (576p)
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
+#EXTINF:-1 tvg-id="TV2000.it@SD",TV 2000 (720p)
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="TVCampane1.it@SD",TV Campane 1 (720p)
+https://eu1.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 tvg-id="TVPrato.it@SD",TV Prato (1080p)
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
+#EXTINF:-1 tvg-id="TVQuiModena.it@SD",TV Qui (Modena) (480p)
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 tvg-id="TVYesItalia.it@SD",TV Yes Italia (720p)
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:-1 tvg-id="TVAVicenza.it@SD",TVA (Vicenza) (720p)
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1 tvg-id="UmbriaTV.it@SD",Umbria TV (576p) [Not 24/7]
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it@SD",UniNettuno University TV (720p)
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:-1 tvg-id="Value24TV.it@SD",Value 24 TV
+https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
+#EXTINF:-1 tvg-id="VisualRadio.it@SD",Visual Radio (576p) [Not 24/7]
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it@HD",Rai News 24 HD (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+#EXTINF:-1 tvg-id="TGCom24.it@SD",TGCom24 (720p)
+https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
+#EXTINF:-1 tvg-id="InterTV.it@SD",Inter TV (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
+#EXTINF:-1 tvg-id="7Gold.it@SD",7 Gold (1080p)
+https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+#EXTINF:-1 tvg-id="EspansioneTV.it@SD",Espansione TV (576p)
+https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8
+#EXTINF:-1 tvg-id="TelecityLombardia.it@SD",Telecity Lombardia (1080p)
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+#EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD",3Cat Càmeres del temps (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1 tvg-id="3CatPlatsbruts.es@SD",3Cat Plats bruts (1080p)
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 tvg-id="3CatInfo.es@SD",3CatInfo (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es@SD",7 TeleValencia (576p)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-id="8LaMarinaTV.es@SD",8 La Marina TV (576p)
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:-1 tvg-id="12tv.es@SD",12tv
+https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
+#EXTINF:-1 tvg-id="12tv.es@SD",12TV Alicante (720p)
+https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
+#EXTINF:-1 tvg-id="28kanala.es@SD",28 kanala
+https://streaming.28kanala.eus/hls/z.m3u8
+#EXTINF:-1 tvg-id="APunt.es@SD",A Punt (720p)
+https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
+#EXTINF:-1 tvg-id="ActivaTV.es@SD",Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-id="AlcarriaTV.es@SD",Alcarria TV (576p) [Not 24/7]
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="AlcarriaTV.es@SD",Alcarria TV (576p) [Not 24/7]
+https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ArabiTV.es@SD",Arabí TV (1080p)
+https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
+#EXTINF:-1 tvg-id="AXNCEE.es@Hungary",AXN CEE
+http://88.212.15.19/live/axn_hun/index.m3u8
+#EXTINF:-1 tvg-id="AXNCEE.es@CzechRepublic",AXN CEE Czech Republic
+http://88.212.15.19/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-id="BCNGospelTV.es@HD",BCN Gospel TV HD (720p)
+https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
+#EXTINF:-1 tvg-id="BonDiaTV.es@SD",Bon Dia TV (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="BonDiaTV.es@SD",Bon Dia TV (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="CadenaElite.es@SD",Cadena Elite (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-id="Canal3TVBiar.es@SD",Canal 3 Biar (480p) [Not 24/7]
+https://avantstreaming.es/hls/canal3.m3u8
+#EXTINF:-1 tvg-id="Canal4ManchaCentro.es@SD",Canal 4 Mancha Centro (720p) [Not 24/7]
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10Emporda.es@SD",Canal 10 Empordà (360p) [Not 24/7]
+https://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 tvg-id="Canal33Madrid.es@SD",Canal 33 Madrid
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal45.es@SD",Canal 45 (576p)
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+#EXTINF:-1 tvg-id="Canal56.es@SD",Canal 56 (576p) [Not 24/7]
+https://videos.canal56.com/directe/stream/index.m3u8
+#EXTINF:-1 tvg-id="Canal2000.es@SD",Canal 2000 La Solana (720p) [Not 24/7]
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+#EXTINF:-1 tvg-id="CanalDiocesano.es@SD",Canal Diocesano (576p)
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
+#EXTINF:-1 tvg-id="CanalMalagaRTV.es@SD",Canal Málaga RTV (720p) [Not 24/7]
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalParlamento.es@SD",Canal Parlamento (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-id="CanalSanRoque.es@SD",Canal San Roque (1080p) [Not 24/7]
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSierradeCadiz.es@SD",Canal Sierra de Cádiz (1080p) [Not 24/7]
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+#EXTINF:-1 tvg-id="CanalSur2.es@SD",Canal Sur Andalucía 2 (720p)
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSurNoticias.es@SD",Canal Sur Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTaronjaComarquesCentrals.es@SD",Canal Taronja Comarques Centrals (1080p) [Not 24/7]
+https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTaronjaOsonaiMoianes.es@SD",Canal Taronja Osona i Moianés (1080p) [Not 24/7]
+https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
+#EXTINF:-1 tvg-id="CetelmonTV.es@SD",Cetelmón TV (404p)
+http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+#EXTINF:-1 tvg-id="CiudadesdelOcioTV.es@SD",Ciudades Del Ocio TV (720p)
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+#EXTINF:-1 tvg-id="CMMTV.es@HD",CMM TV HD (1080p)
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados1.es@SD",Congreso de los Diputados 1 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados2.es@SD",Congreso de los Diputados 2 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados3.es@SD",Congreso de los Diputados 3 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados4.es@SD",Congreso de los Diputados 4 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados5.es@SD",Congreso de los Diputados 5 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
+#EXTINF:-1 tvg-id="DreikoTV.pa@SD",Dreiko TV (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-id="DiezTVLasVillas.es@SD",Diez TV Las Villas (1080p)
+https://streaming.cloud.innovasur.es/mmj2/index.m3u8
+#EXTINF:-1 tvg-id="DiezTVUbeda.es@SD",Diez TV Úbeda (1080p)
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:-1 tvg-id="DistritoTV.es@SD",Distrito TV (1080p)
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1 tvg-id="DurangaldekoTelebista.es@SD",Durangaldeko Telebista (576p)
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:-1 tvg-id="El33.es@Originals",El 33 Originals (1080p) [Not 24/7]
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="El33.es@Originals",El 33 Originals (1080p) [Not 24/7]
+https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.es@SD",El Toro TV (720p)
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="Elche7TV.es@SD",Elche 7 TV (576p)
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:-1 tvg-id="EmpordaTV.es@SD",Empordà TV (1080p)
+https://video3.lhdserver.es/empordatv2/live.m3u8
+#EXTINF:-1 tvg-id="Esport3.es@Originals",Esport3 (1080p) [Not 24/7]
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="Esport3.es@Originals",Esport3 (1080p) [Not 24/7]
+https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="EsteponaTelevision.es@SD",Estepona Televisión (720p)
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+#EXTINF:-1 tvg-id="EsTuTele.es@SD",EsTuTele (720p)
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+#EXTINF:-1 tvg-id="ETB1On.es@HD",ETB1 On (1080p)
+https://cdn1.etbon.eus/etb1on/index.m3u8
+#EXTINF:-1 tvg-id="ETB1On.es@HD",ETB1 On (1080p)
+https://cdn1.etbon.eus/etb1on/index.mpd
+#EXTINF:-1 tvg-id="ETB2On.es@HD",ETB2 On (1080p)
+https://cdn1.etbon.eus/etb2on/index.m3u8
+#EXTINF:-1 tvg-id="ETB2On.es@HD",ETB2 On (1080p)
+https://cdn1.etbon.eus/etb2on/index.mpd
+#EXTINF:-1 tvg-id="ETBEvents1.es@SD",ETB Events 1 (1080p)
+https://cdn1.etbon.eus/oc1/index.m3u8
+#EXTINF:-1 tvg-id="FuerteventuraTV.es@SD",Fuerteventura TV (1080p)
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
+#EXTINF:-1 tvg-id="GaliciaTVEuropa.es@SD",Galicia TV Europa (720p)
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="GoienaEus.es@SD",Goiena Eus (720p)
+https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
+#EXTINF:-1 tvg-id="GuadaTV.es@SD",Guada TV (720p) [Not 24/7]
+https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
+#EXTINF:-1 tvg-id="Historia.es@HD",Historia HD (1080p)
+https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
+#EXTINF:-1 tvg-id="InteralmeriaTV.es@SD",Interalmeria TV (1080p)
+https://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 tvg-id="IntercomarcalTV.es@SD",Intercomarcal TV (576p) [Not 24/7]
+https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
+#EXTINF:-1 tvg-id="KinoKazka.es@SD",KinoKazka (1080p)
+http://stream.mcquack.net/167/index.m3u8
+#EXTINF:-1 tvg-id="La8Mediterraneo.es@SD",La 8 Mediterraneo (1080p)
+https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
+#EXTINF:-1 tvg-id="LancelotTV.es@SD",Lancelot TV (404p)
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+#EXTINF:-1 tvg-id="LogosTV.es@SD",Logos TV (1080p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1 tvg-id="LogosTVKids.es@SD",Logos TV Kids (720p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 tvg-id="M95TelevisionMarbella.es@SD",M95 Televisión Marbella (1080p) [Not 24/7]
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1 tvg-id="Mijas340TV.es@SD",Mijas 3.40TV (720p)
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:-1 tvg-id="MusicTVGranada.es@SD",Music TV Granada (1080p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@ES",NatureTime (1080p)
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-id="NegociosTV.es@SD",Negocios TV (1080p)
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-id="Onda15TV.es@SD",Onda 15 TV (224p)
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 tvg-id="OndaCadiz.es@SD",Onda Cádiz 24h (720p)
+https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+#EXTINF:-1 tvg-id="OndaValenciaTV.es@SD",Onda Valencia (720p)
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-id="PlatziTV.es@SD",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="POPWorldTV.es@SD",POP World TV (720p)
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 tvg-id="PopularTVMurcia.es@SD",Popular TV Murcia (1080p) [Not 24/7]
+https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
+#EXTINF:-1 tvg-id="Punt3.es@SD",Punt 3 Vall Uixó (1080p)
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1 tvg-id="RadioBocairentTV.es@SD",Ràdio Bocairent TV (1080p) [Not 24/7]
+http://185.81.77.4/BocairentTV/index.m3u8
+#EXTINF:-1 tvg-id="RadioCarnavalTV.es@SD",Radio Carnaval TV (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es@SD",Real Madrid TV (726p)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD",Real Madrid TV English
+http://88.212.15.19/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 tvg-id="RiberaTV.es@SD",Ribera TV (576p)
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1 tvg-id="RadioTelevisionMarbella.es@SD",RTV Marbella (720p)
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
+#EXTINF:-1 tvg-id="SevillaFCTV.es@SD",Sevilla FC TV (360p) [Not 24/7]
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+#EXTINF:-1 tvg-id="SolidariaTV.es@SD",Solidaria TV (720p)
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 tvg-id="SpektraTV.es@SD",SpektraTV (720p)
+https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Taroteame.es@SD",Tarotéame (576p)
+https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
+#EXTINF:-1 tvg-id="TBNEspana.es@SD",TBN España (576p)
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+#EXTINF:-1 tvg-id="TeleElx.es@SD",Tele Elx (1080p)
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+#EXTINF:-1 tvg-id="TeleSafor.es@SD",Tele Safor (720p) [Not 24/7]
+https://video.telesafor.com/hls/video.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.es@SD",Teledeporte
+https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="Teleganes.es@SD",Teleganés (720p)
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.es@HD",Telemadrid HD (1080p)
+https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="TeleVigo.es@SD",TeleVigo (1080p) [Not 24/7]
+https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
+#EXTINF:-1 tvg-id="TelevisionAranda.es@SD",Televisión Aranda (720p)
+https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
+#EXTINF:-1 tvg-id="TelevisionCanaria.es@SD",Television Canaria (576p)
+https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
+#EXTINF:-1 tvg-id="TitoTV.es@HD",Tito TV (720p)
+https://cloud.tvomix.com/TITOTV/index.m3u8
+#EXTINF:-1 tvg-id="Trece.es@SD",Trece TV (576p)
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.es@SD",TV Artequatre (576p)
+https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
+#EXTINF:-1 tvg-id="TVSabadellValles.es@SD",TV Sabadell-Vallès (1080p)
+https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es@SD",TVE Star (576p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es@HD",TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es@HD",TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id="TVOJesus.es@SD",TVO Jesus (720p)
+https://cloud.tvomix.com/TVOJESUS/index.m3u8
+#EXTINF:-1 tvg-id="TVOMIX.es@HD",TVOMIX (1080p)
+https://cloud.tvomix.com/TVOMIX/index.m3u8
+#EXTINF:-1 tvg-id="TVReus.es@SD",TVReus (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8166/index.m3u8
+#EXTINF:-1 tvg-id="UneVinalopo.es@SD",Une Vinalopó (576p) [Not 24/7]
+https://streamingtvi.gestec-video.com/hls/unesd.m3u8
+#EXTINF:-1 tvg-id="UniversTV.es@SD",Univers TV (720p)
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1 tvg-id="UrolaTelebista.es@SD",Urola Telebista (416p)
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
+#EXTINF:-1 tvg-id="XPTV1.es@SD",XPTV1 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1 tvg-id="XPTV2.es@SD",XPTV2 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
+#EXTINF:-1 tvg-id="XPTVUS.es@SD",XPTV US (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+#EXTINF:-1 tvg-id="TelevisionCanaria.es@SD",Television Canaria (1080p)
+https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Clan.es@SD",Clan (1080p)
+https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
+#EXTINF:-1 tvg-id="Tac12.es@SD",Tac12
+https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt@SD",ARTV Canal Parlamento (720p) [Not 24/7]
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNMovies.pt@SD",AXN Movies (720p)
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 tvg-id="KuriakosMusic.pt@SD",Kuriakos Music (1080p)
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt@SD",Kuriakos TV (1080p)
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaChurchOnline.pt@SD",Maná Church Online (1080p) [Not 24/7]
+https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaCirkevOnline.pt@SD",Maná Cirkev Online (1080p) [Not 24/7]
+https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaEgliseOnline.pt@SD",Maná Église Online (1080p) [Not 24/7]
+https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaIglesiaOnline.pt@SD",Maná Iglesia Online (1080p) [Not 24/7]
+https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaIgrejaOnline.pt@SD",Maná Igreja Online (1080p) [Not 24/7]
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt@SD",Maná Tserkov' Onlayn (1080p) [Not 24/7]
+https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ONFM.pt@SD",ON FM (720p)
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt@SD",Porto Canal (720p)
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt@SD",RTP África (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt@SD",RTP Madeira (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMundo.pt@SD",RTP Mundo (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPNoticias.pt@HD",RTP Noticias (720p) [Not 24/7]
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPNoticias.pt@SD",RTP Noticias (504p) [Not 24/7]
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SICAltaDefinicao.pt@SD",SIC Alta Definição (1080p)
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+#EXTINF:-1 tvg-id="SICReplay.pt@SD",SIC Replay (1080p)
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:-1 tvg-id="TVMana1.pt@SD",TV Maná 1 (1080p)
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMana2.pt@SD",TV Maná 2 (1080p)
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaBrasil.pt@SD",TV Maná Brasil (1080p)
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaEnglish.pt@SD",TV Maná English (1080p)
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaEspanhol.pt@SD",TV Maná Español (1080p)
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaRusskiy.pt@SD",TV Maná Russkiy (1080p)
+https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI.pt@SD",TVI (720p)
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt@SD",TVI Ficção (720p)
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt@SD",TVI Reality (720p) [Not 24/7]
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
+#EXTINF:-1 tvg-id="VPlusTVI.pt@SD",V+ TVI (720p)
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
