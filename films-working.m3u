@@ -1,0 +1,8 @@
+#EXTM3U x-verified=2026-09-06 x-source=films.m3u x-note="google-bucket-3-removed-accessdenied"
+#EXTINF:0 genre="Animation",Big Buck Bunny (court - 1080p)
+#EXTINF:0 genre="Animation",Cosmos Laundromat - First Cycle (2K)
+https://media.xiph.org/cosmoslaundromat/Cosmos_Laundromat_First_Cycle_2k.mp4
+#EXTINF:0 genre="Animation",Cosmos Laundromat - Bande-annonce
+https://media.xiph.org/cosmoslaundromat/Pilot_Trailer_Cosmos_Laundromat.mp4
+#EXTINF:0 genre="Cinéma",Tears of Steel (film libre - 1080p)
+https://media.xiph.org/mango/tears_of_steel_1080p.webm
