@@ -3,7 +3,7 @@ name: iptv-matrix
 # rotating slices, writes all-working.m3u + matrix.json, commits. 0-local.
 on:
   schedule:
-    - cron: '17 3 * * 0'   # Sundays 03:17 UTC (polite hours)
+    - cron: '17 3 * * *'   # DAILY 03:17 UTC (polite hours, rotating slices)
   workflow_dispatch:
 
 permissions:
