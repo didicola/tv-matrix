@@ -1,4 +1,4 @@
-#EXTM3U x-generated=iptv-matrix-gen x-date=2026-09-07 x-count=551
+#EXTM3U x-generated=iptv-matrix-gen x-date=2026-09-08 x-count=554
 #EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD",Parlamentsfernsehen 1 (1080p) [Not 24/7]
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
 #EXTINF:-1 tvg-id="PUNKTumFernsehen.de@SD",PUNKTum Fernsehen (1080p) [Not 24/7]
@@ -93,6 +93,8 @@ https://live.yoltv.com/hls/stream.m3u8
 https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@English",DW English (576p)
 https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English",DW English (576p)
+https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
 #EXTINF:-1 tvg-id="MTV.de@SD",MTV
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
 #EXTINF:-1 tvg-id="ComedyCentral.de@SD",Comedy Central
@@ -153,6 +155,8 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:-1 tvg-id="Deluxe139.it@SD",Deluxe 139 (480p)
 https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
+#EXTINF:-1 tvg-id="DITV80.it@SD",DI.TV 80 (720p)
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
 #EXTINF:-1 tvg-id="EliveTVBrescia.it@SD",Elive TV Brescia (720p) [Not 24/7]
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
 #EXTINF:-1 tvg-id="EntellaTV.it@SD",Entella TV (720p) [Not 24/7]
@@ -161,8 +165,6 @@ https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="EsperiaTV.it@SD",Esperia TV (480p)
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 tvg-id="EtnaEspressoChannel.it@SD",Etna Espresso Channel (720p)
-https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 #EXTINF:-1 tvg-id="eTvMarche.it@SD",èTv Marche (720p)
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="eTvRete7.it@SD",èTv Rete 7 (720p)
@@ -265,6 +267,8 @@ https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC.it@SD",QVC Italia (540p)
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-id="RadioBirikinaTV.it@SD",Radio Birikina TV (720p) [Not 24/7]
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioCapitalTiVu.it@HD",Radio Capital TiVu (720p)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-id="Radiofreccia.it@SD",Radio Freccia TV (1080p)
@@ -463,8 +467,6 @@ https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 #EXTINF:-1 tvg-id="InterTV.it@SD",Inter TV (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
-#EXTINF:-1 tvg-id="7Gold.it@SD",7 Gold (1080p)
-https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
 #EXTINF:-1 tvg-id="EspansioneTV.it@SD",Espansione TV (576p)
 https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8
 #EXTINF:-1 tvg-id="Odeon24.it@SD",Odeon 24 (576p)
@@ -515,8 +517,6 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 https://avantstreaming.es/hls/canal3.m3u8
 #EXTINF:-1 tvg-id="Canal4ManchaCentro.es@SD",Canal 4 Mancha Centro (720p) [Not 24/7]
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10Emporda.es@SD",Canal 10 Empordà (360p) [Not 24/7]
-https://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:-1 tvg-id="Canal33Madrid.es@SD",Canal 33 Madrid
 https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal45.es@SD",Canal 45 (576p)
@@ -543,6 +543,12 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTaronjaComarquesCentrals.es@SD",Canal Taronja Comarques Centrals (1080p) [Not 24/7]
 https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
+#EXTINF:-1 tvg-id="EtnaEspressoChannel.it@SD",Etna Espresso Channel (720p)
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+#EXTINF:-1 tvg-id="7Gold.it@SD",7 Gold (1080p)
+https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10Emporda.es@SD",Canal 10 Empordà (360p) [Not 24/7]
+https://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cortar-por-la-linea-de-puntos-1689749846.png" group-title="Netflix",Cortar por la linea de puntos castellano (2021)
 https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Cortar%20por%20la%20linea%20de%20puntos
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/los-bridgerton.png" group-title="Netflix",Los Bridgerton (2024)
