@@ -1,46 +1,4 @@
-#EXTM3U x-generated=iptv-matrix-gen x-date=2026-09-18 x-count=904
-#EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids",Disney Jr. (1080p)
-http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America (576p)
-http://190.93.224.42/DISNEY-JR/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South (1080p)
-http://45.185.163.75:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South HD (1080p)
-http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Kids",Disney Junior (720p)
-http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="Kids",Disney XD (720p)
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:0,Disney Channel
-http://88.212.15.19/live/disney_channel_hun/index.m3u8
-#EXTINF:0,Disney Junior
-http://88.212.15.19/live/test_disney_junior/playlist.m3u8
-#EXTINF:0,Disney Junior
-https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-channel-east.png" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY CHANNEL (EAST) [M]
-http://limed.cc:80/live/ZWsDKE/XZu7nP/303551.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-channel-west.png" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY CHANNEL (WEST) [M]
-http://limed.cc:80/live/ZWsDKE/XZu7nP/303552.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-jr-east.svg" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY JR (EAST) [M]
-http://limed.cc:80/live/ZWsDKE/XZu7nP/303553.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-jr-west.svg" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY JR (WEST) [M]
-http://limed.cc:80/live/ZWsDKE/XZu7nP/303554.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-xd-east.png" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY XD (EAST) [M]
-http://limed.cc:80/live/ZWsDKE/XZu7nP/303555.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-xd-west.png" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY XD (WEST) [M]
-http://limed.cc:80/live/ZWsDKE/XZu7nP/303556.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/pt-disney-channel.png" group-title="CANAIS | PORTUGAL",PT: DISNEY CHANNEL [M]
-http://limed.cc:80/live/ZWsDKE/XZu7nP/303828.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/pt-disney-junior.svg" group-title="CANAIS | PORTUGAL",PT: DISNEY JUNIOR [M]
-http://limed.cc:80/live/ZWsDKE/XZu7nP/303827.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 1 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5981.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 2 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5982.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 3 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5983.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 4 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5984.m3u8
+#EXTM3U x-generated=iptv-matrix-gen x-date=2026-09-19 x-count=905
 #EXTINF:-1 tvg-logo="" group-title="Denmark",DK: Disney XD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2576.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Denmark",DK: Disney Channel
@@ -503,8 +461,6 @@ http://archive.org/download/ns_20210520/SANDIE.m3u
 http://archive.org/download/ns_20210520/stin.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk4ZDRhYzEtZWExNy00MjIyLTgyYmMtN2Y2MzA4YzZhZTZmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",Sweet Tooth
 https://archive.org/download/elch4v0/sweedr.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ESTA MIERDA ME SUPERA .jpg" group-title="Netflix",ESTA MIERDA ME SUPERA
-http://archive.org/download/esta-mierda-me-supera/Esta%20mierda%20me%20supera.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNhY2JlMmItMGMzZi00ZTM2LTlmNTItZDBkMGVhNGJhYWRhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Netflix",SOMBRA Y HUESO
 https://archive.org/download/elch4v0/huesom.m3u
 #EXTINF:-1 tvg-logo="https://www23.estrenosdoramas.net/wp-content/uploads/2020/01/Touch.jpg" group-title="Netflix",TOUCH
@@ -533,6 +489,8 @@ https://media.xiph.org/cosmoslaundromat/Cosmos_Laundromat_First_Cycle_2k.mp4
 https://media.xiph.org/cosmoslaundromat/Pilot_Trailer_Cosmos_Laundromat.mp4
 #EXTINF:0 genre="Cinéma",Tears of Steel (film libre - 1080p)
 https://media.xiph.org/mango/tears_of_steel_1080p.webm
+#EXTINF:-1,M6 (1080p)
+http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1,TF1 HD (720p)
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1,Canal+ Cinemas (720p)
@@ -575,6 +533,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-id="CinePlusClassic.fr@SD",Cine+ Classic
 http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr@SD",Cine+ Frisson (1080p)
+http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="CNews.fr@SD",CNews (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr@HD",CNEWS PRIME (1080p)
@@ -695,8 +655,6 @@ https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 http://99.27.51.147:8080/Gulli/index.m3u8
 #EXTINF:-1 tvg-id="HANDICAPTV.fr@SD",HANDICAP TV France
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1 tvg-id="ILTV.fr@SD",ILTV (720p)
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (1080p)
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (720p)
@@ -717,6 +675,78 @@ http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 tvg-id="PuissanceTV.fr@SD",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+#EXTINF:-1 tvg-id="SciFi.fr@HD",SciFi (720p)
+http://41.205.93.154/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD",Sony One Blacklist (1080p)
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD",Sony One Favoris (1080p)
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD",Sony One Hits Action (1080p)
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD",Sony One Hits Comedie (1080p)
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Syfy.fr@SD",Syfy
+http://99.27.51.147:8080/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="T18.fr@HD",T18 (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@SD",TMC (1080p)
+http://151.80.18.177:86/TMC/index.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@Russia",Trace Sport Stars Russia (720p)
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@SD",Trace Sport Stars SD
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
+#EXTINF:-1 tvg-id="TV3V.fr@SD",TV3V (720p)
+https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD",TV5Monde Africa (720p)
+http://5.9.121.178/tv5monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia (1080p)
+http://54.37.19.157/TV5MONDE/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids",Disney Jr. (1080p)
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America (576p)
+http://190.93.224.42/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South (1080p)
+http://45.185.163.75:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South HD (1080p)
+http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Kids",Disney Junior (720p)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" group-title="Kids",Disney XD (720p)
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:0,Disney Channel
+http://88.212.15.19/live/disney_channel_hun/index.m3u8
+#EXTINF:0,Disney Junior
+http://88.212.15.19/live/test_disney_junior/playlist.m3u8
+#EXTINF:0,Disney Junior
+https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-channel-east.png" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY CHANNEL (EAST) [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303551.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-channel-west.png" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY CHANNEL (WEST) [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303552.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-jr-east.svg" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY JR (EAST) [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303553.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-jr-west.svg" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY JR (WEST) [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303554.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-xd-east.png" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY XD (EAST) [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303555.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/usa-disney-xd-west.png" group-title="CANAIS | ESTADOS UNIDOS",USA: DISNEY XD (WEST) [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303556.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/pt-disney-channel.png" group-title="CANAIS | PORTUGAL",PT: DISNEY CHANNEL [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303828.m3u8
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/pt-disney-junior.svg" group-title="CANAIS | PORTUGAL",PT: DISNEY JUNIOR [M]
+http://limed.cc:80/live/ZWsDKE/XZu7nP/303827.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 1 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5981.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 2 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5982.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 3 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5983.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 4 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5984.m3u8
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ESTA MIERDA ME SUPERA .jpg" group-title="Netflix",ESTA MIERDA ME SUPERA
+http://archive.org/download/esta-mierda-me-supera/Esta%20mierda%20me%20supera.m3u
+#EXTINF:-1 tvg-id="ILTV.fr@SD",ILTV (720p)
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Rete55.it@SD",Rete 55
 https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:-1 tvg-id="ReteBiellaTV.it@SD",Rete Biella TV (720p) [Not 24/7]
@@ -1239,34 +1269,6 @@ http://212.70.131.37:8000/play/a05k
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk@Hungary",AMC Europe Hungary
 http://88.212.15.19/live/amc_hun/index.m3u8
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr@SD",Cine+ Frisson (1080p)
-http://99.27.51.147:8080/CineFrisson/index.m3u8
-#EXTINF:-1 tvg-id="SciFi.fr@HD",SciFi (720p)
-http://41.205.93.154/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD",Sony One Blacklist (1080p)
-https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD",Sony One Favoris (1080p)
-https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD",Sony One Hits Action (1080p)
-https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD",Sony One Hits Comedie (1080p)
-https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="Syfy.fr@SD",Syfy
-http://99.27.51.147:8080/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="T18.fr@HD",T18 (1080p)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 tvg-id="TMC.fr@SD",TMC (1080p)
-http://151.80.18.177:86/TMC/index.m3u8
-#EXTINF:-1 tvg-id="TraceSportStars.fr@Russia",Trace Sport Stars Russia (720p)
-https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TraceSportStars.fr@SD",Trace Sport Stars SD
-https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
-#EXTINF:-1 tvg-id="TV3V.fr@SD",TV3V (720p)
-https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD",TV5Monde Africa (720p)
-http://5.9.121.178/tv5monde/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia (1080p)
-http://54.37.19.157/TV5MONDE/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia (576p)
 http://27.131.164.187:8080/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia
