@@ -1,128 +1,4 @@
-#EXTM3U x-generated=iptv-matrix-gen x-date=2026-10-03 x-count=1332
-#EXTINF:-1 tvg-id="RealNewsKerala.in@SD",Real News Kerala (576p)
-http://51.75.127.199:3141/realnewskerala/index.m3u8
-#EXTINF:-1 tvg-id="SarvDharamSangam.in@SD",Sarv Dharam Sangam (576p)
-http://51.75.127.199:3141/manavdharam/index.m3u8
-#EXTINF:-1 tvg-id="NewsOnly.in@SD",News Only (576p)
-http://51.75.127.199:3141/newsonly/index.m3u8
-#EXTINF:-1 tvg-id="Colors.in@SD",Colors (576p)
-http://51.75.127.199:3141/colorssd/index.m3u8
-#EXTINF:-1 tvg-id="ColorsInfinity.in@HD",Colors Infinity HD (1080p)
-http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
-#EXTINF:-1 tvg-id="LokshahiNews.in@SD",Lokshahi News (576p)
-http://51.75.127.199:3141/lokshahinews/index.m3u8
-#EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD",AKD Calcutta News (576p)
-http://51.75.127.199:3141/calcuttanews/index.m3u8
-#EXTINF:-1 tvg-id="HeadlinesTripura.in@SD",Headlines Tripura (576p)
-http://51.75.127.199:3141/headlinestripura/index.m3u8
-#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (720p)
-http://51.75.127.199:3141/harekrsnamusic/index.m3u8
-#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (720p)
-http://51.75.127.199:3141/harekrsnapravachan/index.m3u8
-#EXTINF:-1 tvg-id="ValamTVDayro.in@SD",Valam TV Dayro (576p)
-http://51.75.127.199:3141/valamtv/index.m3u8
-#EXTINF:-1 tvg-id="TuljaBhavani.in@SD",Tulja Bhavani (576p)
-http://51.75.127.199:3141/tuljabhavani/index.m3u8
-#EXTINF:-1 tvg-id="SwadeshNews.in@SD",Swadesh News (576p)
-http://51.75.127.199:3141/swadeshnews/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
-http://51.75.127.199:3141/stargoldselecthd/index.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in@SD",Star Movies (576p)
-http://51.75.127.199:3141/starmovies/index.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
-http://51.75.127.199:3141/starmovieshd/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
-http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
-#EXTINF:-1 tvg-id="DNN.in@SD",DNN (576p)
-http://51.75.127.199:3141/dnn/index.m3u8
-#EXTINF:-1 tvg-id="DivyavaniTV.in@SD",Divyavani TV (576p)
-http://51.75.127.199:3141/divyavani/index.m3u8
-#EXTINF:-1 tvg-id="TV9Marathi.in@SD",TV9 Marathi (576p)
-https://cdn.pishow.tv/ott/live/2/master.m3u8
-#EXTINF:-1 tvg-id="KeralaVision.in@SD",Kerala Vision (576p)
-https://cdn.pishow.tv/ott/live/243/master.m3u8
-#EXTINF:-1 tvg-id="PowerTV.in@SD",Power TV (576p)
-https://cdn.pishow.tv/ott/live/247/master.m3u8
-#EXTINF:-1 tvg-id="AadinathTV.in@SD",Aadinath TV (576p)
-https://cdn.pishow.tv/ott/live/252/master.m3u8
-#EXTINF:-1 tvg-id="News24.in@SD",News 24 (576p)
-https://cdn.pishow.tv/ott/live/253/master.m3u8
-#EXTINF:-1 tvg-id="AssamTalks.in@SD",Assam Talks (576p)
-https://cdn.pishow.tv/ott/live/258/master.m3u8
-#EXTINF:-1 tvg-id="RajNewsTelugu.in@SD",Raj News Telugu (576p)
-https://cdn.pishow.tv/ott/live/279/master.m3u8
-#EXTINF:-1 tvg-id="LivingIndiaNews.in@SD",Living India News (576p)
-https://cdn.pishow.tv/ott/live/324/master.m3u8
-#EXTINF:-1 tvg-id="ShemarooJosh.in@SD",Shemaroo Josh (576p)
-https://cdn.pishow.tv/ott/live/337/master.m3u8
-#EXTINF:-1 tvg-id="BharatUpdate.in@SD",Bharat Update (576p)
-https://cdn.pishow.tv/ott/live/339/master.m3u8
-#EXTINF:-1 tvg-id="FatehTV.in@SD",Fateh TV (576p)
-https://cdn.pishow.tv/ott/live/349/master.m3u8
-#EXTINF:-1 tvg-id="SuvarnaNews.in@SD",Suvarna News SD (576p)
-https://cdn.pishow.tv/ott/live/445/master.m3u8
-#EXTINF:-1 tvg-id="CalvaryTV.in@SD",Calvary TV (576p)
-https://cdn.pishow.tv/ott/live/963/master.m3u8
-#EXTINF:-1 tvg-id="MBCTV.in@SD",MBC TV (576p)
-https://cdn.pishow.tv/ott/live/1017/master.m3u8
-#EXTINF:-1 tvg-id="PrimeNews.in@SD",Prime News
-https://cdn.pishow.tv/ott/live/1027/master.m3u8
-#EXTINF:-1 tvg-id="ABPNews.in@SD",ABP News (576p)
-https://cdn.pishow.tv/ott/live/1057/master.m3u8
-#EXTINF:-1 tvg-id="MahaaMax.in@SD",Mahaa Max (576p)
-https://cdn.pishow.tv/ott/live/1147/master.m3u8
-#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD",Hope Channel India (576p)
-https://cdn.pishow.tv/ott/live/1385/master.m3u8
-#EXTINF:-1 tvg-id="PratidinTime.in@SD",Pratidin Time (576p)
-https://cdn.pishow.tv/ott/live/1437/master.m3u8
-#EXTINF:-1 tvg-id="PrarthanaTV.in@SD",Prarthana TV (576p)
-https://cdn.pishow.tv/ott/live/1500/master.m3u8
-#EXTINF:-1 tvg-id="RajNewsKannada.in@SD",Raj News Kannada (576p)
-https://cdn.pishow.tv/ott/live/1507/master.m3u8
-#EXTINF:-1 tvg-id="KolkataTV.in@SD",Kolkata TV (576p)
-https://cdn.pishow.tv/ott/live/1511/master.m3u8
-#EXTINF:-1 tvg-id="DDTamil.in@HD",DD Tamil HD (1080p)
-https://cdn.pishow.tv/ott/live/1737/master.m3u8
-#EXTINF:-1 tvg-id="FoodFood.in@SD",Food Food (576p)
-https://cdn.pishow.tv/ott/live/267/master.m3u8
-#EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (576p)
-https://cdn.pishow.tv/ott/live/223/master.m3u8
-#EXTINF:-1 tvg-id="ShekinahTV.in@SD",Shekinah TV (576p)
-https://cdn.pishow.tv/ott/live/447/master.m3u8
-#EXTINF:-1 tvg-id="NDTVIndia.in@SD",NDTV India (576p)
-https://cdn.pishow.tv/ott/live/299/master.m3u8
-#EXTINF:-1 tvg-id="ABPMajha.in@SD",ABP Majha (576p)
-https://cdn.pishow.tv/ott/live/471/master.m3u8
-#EXTINF:-1 tvg-id="ManoramaNews.in@SD",Manorama News (576p)
-https://cdn.pishow.tv/ott/live/463/master.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD",Dangal TV (576p)
-https://cdn.pishow.tv/ott/live/1141/master.m3u8
-#EXTINF:-1 tvg-id="NDTVProfit.in@SD",NDTV Profit (576p)
-https://cdn.pishow.tv/ott/live/1287/master.m3u8
-#EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in@SD",NDTV Madhya Pradesh Chhattisgarh (576p)
-https://cdn.pishow.tv/ott/live/1488/master.m3u8
-#EXTINF:-1 tvg-id="NDTVRajasthan.in@SD",NDTV Rajasthan (576p)
-https://cdn.pishow.tv/ott/live/1489/master.m3u8
-#EXTINF:-1 tvg-id="DarshanaTV.in@SD",Darshana TV (576p)
-https://cdn.pishow.tv/ott/live/1453/master.m3u8
-#EXTINF:-1 tvg-id="AadinathTV.in@SD",Aadinath TV (576p)
-https://d2gvyg6lvauoko.cloudfront.net/230226/aadinathtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (720p)
-https://yuppparoriglin.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="JinvaniChannel.in@SD",Jinvani Channel (576p)
-https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8
-#EXTINF:-1 tvg-id="SantvaniChannel.in@SD",Santvani Channel (576p)
-https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8
-#EXTINF:-1 tvg-id="MangalmayTV.in@SD",Mangalmay TV (576p)
-https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="SarvDharmSangam.in@SD",Sarv Dharm Sangam (576p)
-https://d1msejlow1t3l4.cloudfront.net/fta/sarvdharmsangam/playlist.m3u8
-#EXTINF:-1 tvg-id="SharnamTV.in@SD",Sharnam TV (576p)
-https://d1msejlow1t3l4.cloudfront.net/fta/sharanamtv/playlist.m3u8
-#EXTINF:-1 tvg-id="AwakeningTV.in@SD",Awakening TV (576p)
-https://d2gvyg6lvauoko.cloudfront.net/230226/awakeningtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="MNaduTV.in@SD",M Nadu TV (576p)
-https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
+#EXTM3U x-generated=iptv-matrix-gen x-date=2026-10-04 x-count=1332
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD",Colors Cineplex (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-id="ZeeTelugu.in@HD",Zee Telugu HD (576p)
@@ -863,6 +739,130 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French",France 24 French (720p)
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="RealNewsKerala.in@SD",Real News Kerala (576p)
+http://51.75.127.199:3141/realnewskerala/index.m3u8
+#EXTINF:-1 tvg-id="SarvDharamSangam.in@SD",Sarv Dharam Sangam (576p)
+http://51.75.127.199:3141/manavdharam/index.m3u8
+#EXTINF:-1 tvg-id="NewsOnly.in@SD",News Only (576p)
+http://51.75.127.199:3141/newsonly/index.m3u8
+#EXTINF:-1 tvg-id="Colors.in@SD",Colors (576p)
+http://51.75.127.199:3141/colorssd/index.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in@HD",Colors Infinity HD (1080p)
+http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
+#EXTINF:-1 tvg-id="LokshahiNews.in@SD",Lokshahi News (576p)
+http://51.75.127.199:3141/lokshahinews/index.m3u8
+#EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD",AKD Calcutta News (576p)
+http://51.75.127.199:3141/calcuttanews/index.m3u8
+#EXTINF:-1 tvg-id="HeadlinesTripura.in@SD",Headlines Tripura (576p)
+http://51.75.127.199:3141/headlinestripura/index.m3u8
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (720p)
+http://51.75.127.199:3141/harekrsnamusic/index.m3u8
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (720p)
+http://51.75.127.199:3141/harekrsnapravachan/index.m3u8
+#EXTINF:-1 tvg-id="ValamTVDayro.in@SD",Valam TV Dayro (576p)
+http://51.75.127.199:3141/valamtv/index.m3u8
+#EXTINF:-1 tvg-id="TuljaBhavani.in@SD",Tulja Bhavani (576p)
+http://51.75.127.199:3141/tuljabhavani/index.m3u8
+#EXTINF:-1 tvg-id="SwadeshNews.in@SD",Swadesh News (576p)
+http://51.75.127.199:3141/swadeshnews/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
+http://51.75.127.199:3141/stargoldselecthd/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@SD",Star Movies (576p)
+http://51.75.127.199:3141/starmovies/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
+http://51.75.127.199:3141/starmovieshd/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
+http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
+#EXTINF:-1 tvg-id="DNN.in@SD",DNN (576p)
+http://51.75.127.199:3141/dnn/index.m3u8
+#EXTINF:-1 tvg-id="DivyavaniTV.in@SD",Divyavani TV (576p)
+http://51.75.127.199:3141/divyavani/index.m3u8
+#EXTINF:-1 tvg-id="TV9Marathi.in@SD",TV9 Marathi (576p)
+https://cdn.pishow.tv/ott/live/2/master.m3u8
+#EXTINF:-1 tvg-id="KeralaVision.in@SD",Kerala Vision (576p)
+https://cdn.pishow.tv/ott/live/243/master.m3u8
+#EXTINF:-1 tvg-id="PowerTV.in@SD",Power TV (576p)
+https://cdn.pishow.tv/ott/live/247/master.m3u8
+#EXTINF:-1 tvg-id="AadinathTV.in@SD",Aadinath TV (576p)
+https://cdn.pishow.tv/ott/live/252/master.m3u8
+#EXTINF:-1 tvg-id="News24.in@SD",News 24 (576p)
+https://cdn.pishow.tv/ott/live/253/master.m3u8
+#EXTINF:-1 tvg-id="AssamTalks.in@SD",Assam Talks (576p)
+https://cdn.pishow.tv/ott/live/258/master.m3u8
+#EXTINF:-1 tvg-id="RajNewsTelugu.in@SD",Raj News Telugu (576p)
+https://cdn.pishow.tv/ott/live/279/master.m3u8
+#EXTINF:-1 tvg-id="LivingIndiaNews.in@SD",Living India News (576p)
+https://cdn.pishow.tv/ott/live/324/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD",Shemaroo Josh (576p)
+https://cdn.pishow.tv/ott/live/337/master.m3u8
+#EXTINF:-1 tvg-id="BharatUpdate.in@SD",Bharat Update (576p)
+https://cdn.pishow.tv/ott/live/339/master.m3u8
+#EXTINF:-1 tvg-id="FatehTV.in@SD",Fateh TV (576p)
+https://cdn.pishow.tv/ott/live/349/master.m3u8
+#EXTINF:-1 tvg-id="SuvarnaNews.in@SD",Suvarna News SD (576p)
+https://cdn.pishow.tv/ott/live/445/master.m3u8
+#EXTINF:-1 tvg-id="CalvaryTV.in@SD",Calvary TV (576p)
+https://cdn.pishow.tv/ott/live/963/master.m3u8
+#EXTINF:-1 tvg-id="MBCTV.in@SD",MBC TV (576p)
+https://cdn.pishow.tv/ott/live/1017/master.m3u8
+#EXTINF:-1 tvg-id="PrimeNews.in@SD",Prime News
+https://cdn.pishow.tv/ott/live/1027/master.m3u8
+#EXTINF:-1 tvg-id="ABPNews.in@SD",ABP News (576p)
+https://cdn.pishow.tv/ott/live/1057/master.m3u8
+#EXTINF:-1 tvg-id="MahaaMax.in@SD",Mahaa Max (576p)
+https://cdn.pishow.tv/ott/live/1147/master.m3u8
+#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD",Hope Channel India (576p)
+https://cdn.pishow.tv/ott/live/1385/master.m3u8
+#EXTINF:-1 tvg-id="PratidinTime.in@SD",Pratidin Time (576p)
+https://cdn.pishow.tv/ott/live/1437/master.m3u8
+#EXTINF:-1 tvg-id="PrarthanaTV.in@SD",Prarthana TV (576p)
+https://cdn.pishow.tv/ott/live/1500/master.m3u8
+#EXTINF:-1 tvg-id="RajNewsKannada.in@SD",Raj News Kannada (576p)
+https://cdn.pishow.tv/ott/live/1507/master.m3u8
+#EXTINF:-1 tvg-id="KolkataTV.in@SD",Kolkata TV (576p)
+https://cdn.pishow.tv/ott/live/1511/master.m3u8
+#EXTINF:-1 tvg-id="DDTamil.in@HD",DD Tamil HD (1080p)
+https://cdn.pishow.tv/ott/live/1737/master.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in@SD",Food Food (576p)
+https://cdn.pishow.tv/ott/live/267/master.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (576p)
+https://cdn.pishow.tv/ott/live/223/master.m3u8
+#EXTINF:-1 tvg-id="ShekinahTV.in@SD",Shekinah TV (576p)
+https://cdn.pishow.tv/ott/live/447/master.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in@SD",NDTV India (576p)
+https://cdn.pishow.tv/ott/live/299/master.m3u8
+#EXTINF:-1 tvg-id="ABPMajha.in@SD",ABP Majha (576p)
+https://cdn.pishow.tv/ott/live/471/master.m3u8
+#EXTINF:-1 tvg-id="ManoramaNews.in@SD",Manorama News (576p)
+https://cdn.pishow.tv/ott/live/463/master.m3u8
+#EXTINF:-1 tvg-id="DangalTV.in@SD",Dangal TV (576p)
+https://cdn.pishow.tv/ott/live/1141/master.m3u8
+#EXTINF:-1 tvg-id="NDTVProfit.in@SD",NDTV Profit (576p)
+https://cdn.pishow.tv/ott/live/1287/master.m3u8
+#EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in@SD",NDTV Madhya Pradesh Chhattisgarh (576p)
+https://cdn.pishow.tv/ott/live/1488/master.m3u8
+#EXTINF:-1 tvg-id="NDTVRajasthan.in@SD",NDTV Rajasthan (576p)
+https://cdn.pishow.tv/ott/live/1489/master.m3u8
+#EXTINF:-1 tvg-id="DarshanaTV.in@SD",Darshana TV (576p)
+https://cdn.pishow.tv/ott/live/1453/master.m3u8
+#EXTINF:-1 tvg-id="AadinathTV.in@SD",Aadinath TV (576p)
+https://d2gvyg6lvauoko.cloudfront.net/230226/aadinathtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD",Hare Krsna TV (720p)
+https://yuppparoriglin.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="JinvaniChannel.in@SD",Jinvani Channel (576p)
+https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8
+#EXTINF:-1 tvg-id="SantvaniChannel.in@SD",Santvani Channel (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8
+#EXTINF:-1 tvg-id="MangalmayTV.in@SD",Mangalmay TV (576p)
+https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="SarvDharmSangam.in@SD",Sarv Dharm Sangam (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/sarvdharmsangam/playlist.m3u8
+#EXTINF:-1 tvg-id="SharnamTV.in@SD",Sharnam TV (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/sharanamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AwakeningTV.in@SD",Awakening TV (576p)
+https://d2gvyg6lvauoko.cloudfront.net/230226/awakeningtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="MNaduTV.in@SD",M Nadu TV (576p)
+https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French",France 24 French (720p)
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French",France 24 French (576p)
