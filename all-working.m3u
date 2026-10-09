@@ -1,4 +1,140 @@
-#EXTM3U x-generated=iptv-matrix-gen x-date=2026-10-08 x-count=1339
+#EXTM3U x-generated=iptv-matrix-gen x-date=2026-10-09 x-count=1339
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 9 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52817.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 10 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52818.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 11 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52819.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 12 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52820.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 13 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52821.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 14 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52822.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Veronica / DisneyXD HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Veronica / Disney XD FHD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51745.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Disney Channel
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51768.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Disney Junior
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51769.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",RO:  Disney Channel
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51185.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",RO:  Disney Junior
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51186.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",: RO2: Disney Junior
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53190.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SVEDSKA",Disney Chanel (sw)
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/417.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SVEDSKA",Disney Jr (sw)
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1122.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Disney Junior
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53356.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Disney XD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 01" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 01
+http://64.31.23.207:80/96795792/50165825/296915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 02" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 02
+http://64.31.23.207:80/96795792/50165825/296916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 03" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 03
+http://64.31.23.207:80/96795792/50165825/296917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 04" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 04
+http://64.31.23.207:80/96795792/50165825/296918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 05" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 05
+http://64.31.23.207:80/96795792/50165825/296919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 06" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 06
+http://64.31.23.207:80/96795792/50165825/296920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 07" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 07
+http://64.31.23.207:80/96795792/50165825/296921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 08" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 08
+http://64.31.23.207:80/96795792/50165825/296922.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zqZ9N1BSRVk8LKlYpRIQI8fHzAs.jpg" group-title="Netflix",Dark (2017)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Dark%20(2017).m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg" group-title="Netflix",Stranger Things (2016)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Stranger%20Things%20(2016).m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qSMv90pF9WbWyQAfKTjr0qUc1rq.jpg" group-title="Netflix",Estado de la fuga 1986 (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Estado%20de%20la%20fuga%201986%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fr57huR86UiVWJr6C7S8wRaghZw.jpg" group-title="Netflix",La bestia en mí (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/la%20bestia%20en%20mi.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4WRrWmk5BJhlBOFEK0VWWFxamqU.jpg" group-title="Netflix",Hija del fuego (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Hija%20del%20fuego%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ac9e5FC2DlJZZcgBtQ5Jr2973uz.jpg" group-title="Netflix",El cuco de cristal (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20cuco%20de%20cristal%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qEm5qyanHN1VUN3hMwh3Zg2Qnqz.jpg" group-title="Netflix",El ultimo samurai en pie (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20ultimo%20samurai%20en%20pie%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/svXvFanF718EaHk8UG7NHHIZMUl.jpg" group-title="Netflix",50 Seconds: The Fernando Baez Sosa Case (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/50%20Seconds%20The%20Fernando%20B%C3%A1ez%20Sosa%20Case%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/LnhRnyCLTcqwT4vKwcg61kNIQl.jpg" group-title="Netflix",The Witcher (2019)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/The%20Witcher%20(2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6rUEuEfaFAyhR4PJV5FRxcGzkrS.jpg" group-title="Netflix",Ell monstruo de Florencia (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20monstruo%20de%20Florencia%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nOjhJqlWYDZHuskzGmZKdgoxlXN.jpg" group-title="Netflix",nadie nos vio partir (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/nadie%20nos%20vio%20partir%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sSaPOors7XFNRtP9qsIZ7oeLgkh.jpg" group-title="Netflix",El refugio atomico (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20refugio%20at%C3%B3mico%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tgKYnJlze79IUKkPmtsW2nSUeeB.jpg" group-title="Netflix",Splinter Cell Deathwatch (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Splinter%20Cell%20Deathwatch%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rPmbn8ATxwy3UtIHE0cLnNSEaGu.jpg" group-title="Netflix",Girl from Nowhere (2018)
+https://dl.dropbox.com/scl/fi/h3o8sax3duaf27kw5q90q/Girl-from-Nowhere-2018-op2?rlkey=mrllyu5xkszg4eeceg52snu7q&st=pwnyfajb&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yq4TfasaovGloVDXTIdfO132v39.jpg" group-title="Netflix",Plan de resurreccion (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Plan%20de%20resurrecci%C3%B3n%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifHhwXs52bofSvgoUWFKPTyIy6v.jpg" group-title="Netflix",la nueva brigada (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/la%20nueva%20brigada%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vYczshDGYktciJdcdxWpWManGiD.jpg" group-title="Netflix",animal (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/animal%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tuXxPutwb1QteO4LtMISN4RAXEA.jpg" group-title="Netflix",Envidiosa (2024)
+https://dl.dropbox.com/scl/fi/3m7tt1gu97tqq2vsrv853/Envidioso-2024-op2?rlkey=6g922uyocczvtoi40734xbg5v&st=hbejo043&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/77767BnO2ZIEBmkgqjQqTZnz9eh.jpg" group-title="Netflix",Nero the Assassin (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/N%C3%A9ro%20the%20Assassin%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg" group-title="Netflix",Boots (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Boots%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg" group-title="Netflix",Cashero (2025)
+https://dl.dropbox.com/scl/fi/whfemtj359gzp5lkdvkyn/Cashero-2025?rlkey=bfpdtpfhwutcxcifhtxiu0j4p&st=lsla03g6&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q3V4oTRAnOnp8irVHaQeO7JkYzx.jpg" group-title="Netflix",incontrolables (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/incontrolables%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6SP6NiyFxzUaegvg4TB3TMZlv8H.jpg" group-title="Netflix",Chica mascara (2023)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Mask%20Girl%20(2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg" group-title="Netflix",Genio, pide un deseo (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Genio%2C%20pide%20un%20deseo%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg" group-title="Netflix",Se puede traducir este amor (2026)
+https://dl.dropbox.com/scl/fi/4gzcj0ezkf0n3z2n3sdha/Se-puede-traducir-este-amor-2026?rlkey=a3kstknbfdy6tkl1gy43mjhy0&st=s7o890qd&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg" group-title="Netflix",Monster The Ed Gein Story (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Monster%20The%20Ed%20Gein%20Story%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sVl7GPi1aGX5wnNsBZDf93hu9gU.jpg" group-title="Netflix",el y ella (2026)
+https://dl.dropbox.com/scl/fi/64ypyg9u8gvou9cgrlvl6/L-Y-ELLA-2026?rlkey=8ztsl1ov518mmi3jcifxeasy8&st=27bsbglp&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3dvbR2dbwU6vC8zTqBU8OrCUozk.jpg" group-title="Netflix",Rehen (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Rehen%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aZZ6okqrvgo3ZGGFCQb1zq5fhdy.jpg" group-title="Netflix",mi novio coreano (2026)
+https://dl.dropbox.com/scl/fi/8jkt4v3oucozwz90u1tti/Mi-novio-coreano-2026?rlkey=lfgzjew4kxfy5sq91xb1nyq5b&st=t7ypdrto&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9n2HM0guy6Wn95EshDj7Uw6XWd2.jpg" group-title="Netflix",el tiempo de las moscas (2026)
+https://dl.dropbox.com/scl/fi/w3jovtx3j8a2q69lxtlq1/el-tiempo-de-las-moscas-2026?rlkey=h19cxbk1dofo1ilh8zloqwyyg&st=6gjnsqhm&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2heNhOUKqZDeUNPuxX2R4YJuSky.jpg" group-title="Netflix",Ríos del destino (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/R%C3%ADos%20del%20destino%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q7FzUmsCtYNAwWZ5PTACZLngssg.jpg" group-title="Netflix",Mr. Robot (2015)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Mr.%20Robot%20(2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/auC6veplvhh9TsxCxw5qJK6Xm5Y.jpg" group-title="Netflix",Jovenes millonarios (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Jovenes%20millonarios%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5qMupAz4A9EN5Rutrkmov45mNXZ.jpg" group-title="Netflix",Cobra Kai (2018)
+https://dl.dropbox.com/scl/fi/320hfjbi4cvl64b7i0aza/cobra-kai-6.m3u?rlkey=x9gy51e2n4oe2ff4hhnxkc7x5&st=0kn54gb0&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nj2woKV1zSIpOVJoddtGabd38Zw.jpg" group-title="Netflix",To Love, To Lose (2026)
+https://dl.dropbox.com/scl/fi/7vk18qlquepph2qh33sr8/amar-perder-2025?rlkey=m165chz4or07mm3jylevgf2d0&st=sqoc83sz&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cRv9pVrUiAPWWgqzJgRfS81oijz.jpg" group-title="Netflix",Dos tumbas (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Dos%20tumbas%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1GWDodKrziDGOWeNc1ezJVqTfcr.jpg" group-title="Netflix",The Accident (2024)
+https://dl.dropbox.com/scl/fi/ifit3bc3srzgjrtcxxsoj/The-Accident-2024?rlkey=3oe6ve0390jjsnyjctmee2g6m&st=1vdei6ah&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/auBp8c189r2G5rd34wbwQ18YwHa.jpg" group-title="Netflix",en fuga (2026)
+https://dl.dropbox.com/scl/fi/7vjfpsy8jsaj3d4ycgt96/en-fuga-2026?rlkey=x5r3abrzy1pd803z39k7udssj&st=2s514l0n&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg" group-title="Netflix",las muertas (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/las%20muertas%20(2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kAy0vnaxCPcLrmPCHWgfwWoWelL.jpg" group-title="Netflix",Land of Sin (2026)
+https://dl.dropbox.com/scl/fi/k7gublhaa9f8wwdcb0ygw/Land-of-Sin-2026?rlkey=iuvbuwaro37ptv1u4c5493h71&st=d2yg5sjz&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hpeaMzflHMEepUGiCjXld7lrnC2.jpg" group-title="Netflix",Marianne (2019)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Marianne%20(2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/36XZcHgim0NlxT6y2we4twWZD4A.jpg" group-title="Netflix",Lucifer (2016)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Lucifer%20(2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fNJarIm84EcMPISFtRXuT56rqVI.jpg" group-title="Netflix",mercado (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/mercado%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odIyR46aAX59dvQ1ON4P53ow1aE.jpg" group-title="Netflix",dia cero (2015)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/D%C3%ADa%20cero%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9KWjsphxIbv0eJykbUafGKxCEHv.jpg" group-title="Netflix",gatillo (2025)
@@ -93,8 +229,6 @@ http://archive.org/download/ns_20210520/CLUBCUERVOS.m3u
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Temporadas%20The%20crown
 #EXTINF:-1 tvg-logo="https://repro12.estrenosdoramas.us/Sisyphus.png" group-title="Netflix",EL MITO DE SISIFO
 https://archive.org/download/elch4v0/sisy.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLOSE ENOUGH.jpg" group-title="Netflix",CLOSE ENOUGH
-http://archive.org/download/clo-eno/Clo%20Eno.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ohGz4HDYGTite1GmRhRuBMVAn03.jpg" group-title="Netflix",Arcane (2021)
 https://archive.org/download/si2_20220111/arck.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FINAL SPACE.jpg" group-title="Netflix",FINAL SPACE
@@ -365,14 +499,14 @@ https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 http://99.27.51.147:8080/Gulli/index.m3u8
 #EXTINF:-1 tvg-id="HANDICAPTV.fr@SD",HANDICAP TV France
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1 tvg-id="ILTV.fr@SD",ILTV (720p)
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (1080p)
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (720p)
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr@SD",Littoral FM (720p)
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MDL.fr@SD",MDL (720p)
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr@SD",Mezzo Live (1080p)
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr@SD",MyZen TV (1080p)
@@ -443,8 +577,6 @@ https://mumbai-edge.smartplaytv.in/france24/index.m3u8
 https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr@SD",Canal+ (720p)
 http://151.80.18.177:86/Canal+_HD/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.fr@SD",Nicktoons (1080p)
-http://193.254.245.162/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Europe1TV.fr@HD",Europe 1 TV (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
 #EXTINF:-1 tvg-id="W9.fr@SD",W9 (1086p)
@@ -469,6 +601,12 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AugsburgTV.de@SD",Augsburg TV (a.tv) (1080p) [Not 24/7]
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLOSE ENOUGH.jpg" group-title="Netflix",CLOSE ENOUGH
+http://archive.org/download/clo-eno/Clo%20Eno.m3u
+#EXTINF:-1 tvg-id="ILTV.fr@SD",ILTV (720p)
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.fr@SD",Nicktoons (1080p)
+http://193.254.245.162/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="BibelTV.de@SD",Bibel TV (720p)
 https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BibelTVImpuls.de@SD",Bibel TV Impuls (720p)
@@ -1127,142 +1265,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52814.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52815.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 8 HD
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52816.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 9 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 10 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52818.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 11 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 12 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52820.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 13 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52821.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 14 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52822.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Veronica / DisneyXD HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51744.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Veronica / Disney XD FHD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51745.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Disney Channel
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51768.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Disney Junior
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51769.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",RO:  Disney Channel
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",RO:  Disney Junior
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51186.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",: RO2: Disney Junior
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53190.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SVEDSKA",Disney Chanel (sw)
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/417.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SVEDSKA",Disney Jr (sw)
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1122.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Disney Junior
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53356.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Disney XD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 01" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 01
-http://64.31.23.207:80/96795792/50165825/296915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 02" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 02
-http://64.31.23.207:80/96795792/50165825/296916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 03" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 03
-http://64.31.23.207:80/96795792/50165825/296917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 04" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 04
-http://64.31.23.207:80/96795792/50165825/296918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 05" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 05
-http://64.31.23.207:80/96795792/50165825/296919.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 06" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 06
-http://64.31.23.207:80/96795792/50165825/296920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 07" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 07
-http://64.31.23.207:80/96795792/50165825/296921.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 08" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 08
-http://64.31.23.207:80/96795792/50165825/296922.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zqZ9N1BSRVk8LKlYpRIQI8fHzAs.jpg" group-title="Netflix",Dark (2017)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Dark%20(2017).m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg" group-title="Netflix",Stranger Things (2016)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Stranger%20Things%20(2016).m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qSMv90pF9WbWyQAfKTjr0qUc1rq.jpg" group-title="Netflix",Estado de la fuga 1986 (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Estado%20de%20la%20fuga%201986%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fr57huR86UiVWJr6C7S8wRaghZw.jpg" group-title="Netflix",La bestia en mí (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/la%20bestia%20en%20mi.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4WRrWmk5BJhlBOFEK0VWWFxamqU.jpg" group-title="Netflix",Hija del fuego (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Hija%20del%20fuego%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ac9e5FC2DlJZZcgBtQ5Jr2973uz.jpg" group-title="Netflix",El cuco de cristal (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20cuco%20de%20cristal%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qEm5qyanHN1VUN3hMwh3Zg2Qnqz.jpg" group-title="Netflix",El ultimo samurai en pie (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20ultimo%20samurai%20en%20pie%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/svXvFanF718EaHk8UG7NHHIZMUl.jpg" group-title="Netflix",50 Seconds: The Fernando Baez Sosa Case (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/50%20Seconds%20The%20Fernando%20B%C3%A1ez%20Sosa%20Case%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/LnhRnyCLTcqwT4vKwcg61kNIQl.jpg" group-title="Netflix",The Witcher (2019)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/The%20Witcher%20(2019)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6rUEuEfaFAyhR4PJV5FRxcGzkrS.jpg" group-title="Netflix",Ell monstruo de Florencia (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20monstruo%20de%20Florencia%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nOjhJqlWYDZHuskzGmZKdgoxlXN.jpg" group-title="Netflix",nadie nos vio partir (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/nadie%20nos%20vio%20partir%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sSaPOors7XFNRtP9qsIZ7oeLgkh.jpg" group-title="Netflix",El refugio atomico (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20refugio%20at%C3%B3mico%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tgKYnJlze79IUKkPmtsW2nSUeeB.jpg" group-title="Netflix",Splinter Cell Deathwatch (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Splinter%20Cell%20Deathwatch%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rPmbn8ATxwy3UtIHE0cLnNSEaGu.jpg" group-title="Netflix",Girl from Nowhere (2018)
-https://dl.dropbox.com/scl/fi/h3o8sax3duaf27kw5q90q/Girl-from-Nowhere-2018-op2?rlkey=mrllyu5xkszg4eeceg52snu7q&st=pwnyfajb&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yq4TfasaovGloVDXTIdfO132v39.jpg" group-title="Netflix",Plan de resurreccion (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Plan%20de%20resurrecci%C3%B3n%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifHhwXs52bofSvgoUWFKPTyIy6v.jpg" group-title="Netflix",la nueva brigada (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/la%20nueva%20brigada%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vYczshDGYktciJdcdxWpWManGiD.jpg" group-title="Netflix",animal (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/animal%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tuXxPutwb1QteO4LtMISN4RAXEA.jpg" group-title="Netflix",Envidiosa (2024)
-https://dl.dropbox.com/scl/fi/3m7tt1gu97tqq2vsrv853/Envidioso-2024-op2?rlkey=6g922uyocczvtoi40734xbg5v&st=hbejo043&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/77767BnO2ZIEBmkgqjQqTZnz9eh.jpg" group-title="Netflix",Nero the Assassin (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/N%C3%A9ro%20the%20Assassin%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg" group-title="Netflix",Boots (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Boots%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg" group-title="Netflix",Cashero (2025)
-https://dl.dropbox.com/scl/fi/whfemtj359gzp5lkdvkyn/Cashero-2025?rlkey=bfpdtpfhwutcxcifhtxiu0j4p&st=lsla03g6&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q3V4oTRAnOnp8irVHaQeO7JkYzx.jpg" group-title="Netflix",incontrolables (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/incontrolables%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6SP6NiyFxzUaegvg4TB3TMZlv8H.jpg" group-title="Netflix",Chica mascara (2023)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Mask%20Girl%20(2023)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg" group-title="Netflix",Genio, pide un deseo (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Genio%2C%20pide%20un%20deseo%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg" group-title="Netflix",Se puede traducir este amor (2026)
-https://dl.dropbox.com/scl/fi/4gzcj0ezkf0n3z2n3sdha/Se-puede-traducir-este-amor-2026?rlkey=a3kstknbfdy6tkl1gy43mjhy0&st=s7o890qd&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg" group-title="Netflix",Monster The Ed Gein Story (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Monster%20The%20Ed%20Gein%20Story%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sVl7GPi1aGX5wnNsBZDf93hu9gU.jpg" group-title="Netflix",el y ella (2026)
-https://dl.dropbox.com/scl/fi/64ypyg9u8gvou9cgrlvl6/L-Y-ELLA-2026?rlkey=8ztsl1ov518mmi3jcifxeasy8&st=27bsbglp&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3dvbR2dbwU6vC8zTqBU8OrCUozk.jpg" group-title="Netflix",Rehen (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Rehen%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aZZ6okqrvgo3ZGGFCQb1zq5fhdy.jpg" group-title="Netflix",mi novio coreano (2026)
-https://dl.dropbox.com/scl/fi/8jkt4v3oucozwz90u1tti/Mi-novio-coreano-2026?rlkey=lfgzjew4kxfy5sq91xb1nyq5b&st=t7ypdrto&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9n2HM0guy6Wn95EshDj7Uw6XWd2.jpg" group-title="Netflix",el tiempo de las moscas (2026)
-https://dl.dropbox.com/scl/fi/w3jovtx3j8a2q69lxtlq1/el-tiempo-de-las-moscas-2026?rlkey=h19cxbk1dofo1ilh8zloqwyyg&st=6gjnsqhm&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2heNhOUKqZDeUNPuxX2R4YJuSky.jpg" group-title="Netflix",Ríos del destino (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/R%C3%ADos%20del%20destino%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q7FzUmsCtYNAwWZ5PTACZLngssg.jpg" group-title="Netflix",Mr. Robot (2015)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Mr.%20Robot%20(2015)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/auC6veplvhh9TsxCxw5qJK6Xm5Y.jpg" group-title="Netflix",Jovenes millonarios (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Jovenes%20millonarios%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5qMupAz4A9EN5Rutrkmov45mNXZ.jpg" group-title="Netflix",Cobra Kai (2018)
-https://dl.dropbox.com/scl/fi/320hfjbi4cvl64b7i0aza/cobra-kai-6.m3u?rlkey=x9gy51e2n4oe2ff4hhnxkc7x5&st=0kn54gb0&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nj2woKV1zSIpOVJoddtGabd38Zw.jpg" group-title="Netflix",To Love, To Lose (2026)
-https://dl.dropbox.com/scl/fi/7vk18qlquepph2qh33sr8/amar-perder-2025?rlkey=m165chz4or07mm3jylevgf2d0&st=sqoc83sz&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cRv9pVrUiAPWWgqzJgRfS81oijz.jpg" group-title="Netflix",Dos tumbas (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Dos%20tumbas%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1GWDodKrziDGOWeNc1ezJVqTfcr.jpg" group-title="Netflix",The Accident (2024)
-https://dl.dropbox.com/scl/fi/ifit3bc3srzgjrtcxxsoj/The-Accident-2024?rlkey=3oe6ve0390jjsnyjctmee2g6m&st=1vdei6ah&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/auBp8c189r2G5rd34wbwQ18YwHa.jpg" group-title="Netflix",en fuga (2026)
-https://dl.dropbox.com/scl/fi/7vjfpsy8jsaj3d4ycgt96/en-fuga-2026?rlkey=x5r3abrzy1pd803z39k7udssj&st=2s514l0n&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg" group-title="Netflix",las muertas (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/las%20muertas%20(2025)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kAy0vnaxCPcLrmPCHWgfwWoWelL.jpg" group-title="Netflix",Land of Sin (2026)
-https://dl.dropbox.com/scl/fi/k7gublhaa9f8wwdcb0ygw/Land-of-Sin-2026?rlkey=iuvbuwaro37ptv1u4c5493h71&st=d2yg5sjz&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hpeaMzflHMEepUGiCjXld7lrnC2.jpg" group-title="Netflix",Marianne (2019)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Marianne%20(2019)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/36XZcHgim0NlxT6y2we4twWZD4A.jpg" group-title="Netflix",Lucifer (2016)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Lucifer%20(2016)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fNJarIm84EcMPISFtRXuT56rqVI.jpg" group-title="Netflix",mercado (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/mercado%20(2025)
 #EXTINF:-1 tvg-id="RealNewsKerala.in@SD",Real News Kerala (576p)
 http://51.75.127.199:3141/realnewskerala/index.m3u8
 #EXTINF:-1 tvg-id="SarvDharamSangam.in@SD",Sarv Dharam Sangam (576p)
@@ -2627,8 +2629,6 @@ https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr@SD",Cine+ Frisson (1080p)
 http://99.27.51.147:8080/CineFrisson/index.m3u8
-#EXTINF:-1 tvg-id="MDL.fr@SD",MDL (720p)
-http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.fr@SD",MTV
 http://99.27.51.147:8080/MTV/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.fr@SD",Syfy
