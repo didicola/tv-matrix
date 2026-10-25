@@ -1,4 +1,12 @@
-#EXTM3U x-generated=iptv-matrix-gen x-date=2026-10-24 x-count=1495
+#EXTM3U x-generated=iptv-matrix-gen x-date=2026-10-25 x-count=1495
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD",English Club TV (576i)
+https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ENTChannel.uk@HD",ENT Channel (720p)
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="ENTFamily.uk@HD",ENT Family (720p)
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="FaithWorldTV.uk@SD",Faith World TV (1080p)
+https://faithworldtv.abs.tv/1826926230/index.m3u8
 #EXTINF:-1 tvg-id="FMTV.uk@SD",Frecuencia Musical TV [Not 24/7]
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk@SD",GB News (1080p)
@@ -65,8 +73,6 @@ https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
 https://shift03.isp.bg/MTVEurope/index.m3u8
 #EXTINF:-1 tvg-id="MTVGlobal.uk@SD",MTV Global
 http://85.14.32.26:8800/udp/239.100.10.67:5000
-#EXTINF:-1 tvg-id="Nickelodeon.uk@SD",Nickelodeon (576p)
-http://tvsen7.aynascope.net/nicklodean/index.m3u8
 #EXTINF:-1 tvg-id="NoorTV.uk@SD",Noor TV (720p)
 https://sscsott.com/srt/noortvuk/index.m3u8
 #EXTINF:-1 tvg-id="Now80s.uk@SD",Now 80s (720p)
@@ -277,6 +283,8 @@ https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional",AMC Latin America (1080p)
 http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil",AMC Latin America Brazil (720p)
+http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us@SD",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="AMGTV.us@SD",AMG TV (1080p)
@@ -317,10 +325,10 @@ http://45.167.1.138:8000/play/a04s
 http://85.14.32.26:8800/udp/239.100.10.18:5000
 #EXTINF:-1 tvg-id="AXNWhite.us@Poland",AXN White Poland (576p)
 http://185.227.34.179:8080/axn-white/index.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.us@Portugal",AXN White Portugal (480p)
-http://50.7.120.34:8080/AXN_WHITE/index.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us@SD",AXS TV (720p)
 http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us@US",BabyFirst (720p)
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="BarkTV.us@SD",Bark TV (1080p)
 https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us@East",BBC America (720p)
@@ -495,12 +503,6 @@ https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 http://190.14.10.19:16000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@North",Disney Jr. Latin America (1080p)
 http://190.14.10.19:16000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (480p)
-http://tvsen5.aynascope.net/disney/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (480p)
-http://tvsen7.aynascope.net/disney/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (480p)
-http://tvsen7.aynascope.net/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DrGeneScott.us@SD",Dr. Gene Scott (1080p)
 https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
 #EXTINF:-1 tvg-id="DrGeneScott.us@SD",Dr. Gene Scott (480p)
@@ -547,6 +549,16 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us@HD",Fox Sports 1 (720p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.uk@SD",Nickelodeon (576p)
+http://tvsen7.aynascope.net/nicklodean/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us@Portugal",AXN White Portugal (480p)
+http://50.7.120.34:8080/AXN_WHITE/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (480p)
+http://tvsen5.aynascope.net/disney/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (480p)
+http://tvsen7.aynascope.net/disney/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (480p)
+http://tvsen7.aynascope.net/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us@SD",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us@SD",Free Speech TV (720p)
@@ -581,8 +593,6 @@ http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8
 http://88.212.15.17/live/test_black/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us@CzechRepublic",AXN White CzechRepublic
 http://88.212.15.17/live/test_white/playlist.m3u8
-#EXTINF:-1 tvg-id="BabyFirst.us@US",BabyFirst (720p)
-https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="GanjeHozourTV.us@SD",Ganj e Hozour TV (1080p)
 https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GlobalBuddhistNetwork.us@SD",GBN Global Buddhist Network (1080p)
@@ -785,18 +795,8 @@ http://88.212.15.17/live/test_cai_hevc/playlist.m3u8
 https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="DerTV.uk@SD",Der TV
 https://stream.berosat.live/hls/der-tv/der-tv.m3u8
-#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD",English Club TV (576i)
-https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ENTChannel.uk@HD",ENT Channel (720p)
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ENTFamily.uk@HD",ENT Family (720p)
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="FaithWorldTV.uk@SD",Faith World TV (1080p)
-https://faithworldtv.abs.tv/1826926230/index.m3u8
 #EXTINF:-1 tvg-id="HalaLondon.uk@SD",Hala London (1080p)
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil",AMC Latin America Brazil (720p)
-http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Poland",BBC Earth (1080p)
 http://57.128.231.171:8080/307/index.m3u8
 #EXTINF:-1 tvg-id="BBCBrit.uk@Poland",BBC Brit (1080p)
