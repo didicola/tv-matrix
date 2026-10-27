@@ -1,4 +1,4 @@
-#EXTM3U x-generated=iptv-matrix-gen x-date=2026-10-26 x-count=1717
+#EXTM3U x-generated=iptv-matrix-gen x-date=2026-10-27 x-count=1719
 #EXTINF:-1 tvg-id="DuckHuntingTV.us@SD",Duck Hunting TV (1080p)
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 #EXTINF:-1 tvg-id="DungeonTV.us@SD",Dungeon TV (720p)
@@ -87,8 +87,6 @@ https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD",Golf Channel Latin America (1080p)
 http://72.1.184.5:8089/play/a0cw/index.m3u8
-#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD",Golf Channel Latin America (720p)
-http://143.14.178.35/TCM-HD/index.m3u8
 #EXTINF:-1 tvg-id="GoodLife45.us@SD",GoodLife 45 (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelTruthTV.us@SD",Gospel Truth TV (1080p)
@@ -157,8 +155,6 @@ https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8
 https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 #EXTINF:-1 tvg-id="",Jewelry Television Espanol (720p)
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8
-#EXTINF:-1 tvg-id="JewelryTV2.us@SD",Jewelry TV 2 (720p)
-https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us@SD",Jewish Life Television (1080p)
 https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
 #EXTINF:-1 tvg-id="JustforLaughsGags.us@SD",Just for Laughs Gags (1080p)
@@ -391,6 +387,8 @@ http://15.204.246.24:8080/PasionesHD/index.m3u8
 http://45.224.97.181:9999/Pasiones/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
 http://190.93.224.42/PASIONES/index.m3u8
+#EXTINF:-1 tvg-id="PayamJavanTV.us@SD",Payam Javan TV (720p) [Not 24/7]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PayameAfghanTV.us@SD",Payam-e-Afghan TV (480p) [Not 24/7]
 https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="PayameArameshTV.us@SD",Payame Aramesh TV (720p)
@@ -543,10 +541,10 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TBN.us@East",TBN (720p)
 http://212.5.144.156:8080/tbn/index.m3u8
-#EXTINF:-1 tvg-id="TBNArmenia.us@SD",TBN Armenia
-https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="TBNPacific.us@SD",TBN Pacific
 https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TCT.us@SD",TCT (1080p)
+https://cdn.jwplayer.com/live/broadcast/frRD2nUK.m3u8
 #EXTINF:-1 tvg-id="TCT.us@SD",TCT (1080p)
 https://d16yptpbiuldtt.cloudfront.net/0b4ebb8be00f40ee83c024f661a85dcd/index.m3u8
 #EXTINF:-1 tvg-id="TeleBoston.us@SD",Tele Boston (480p)
@@ -641,6 +639,12 @@ https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
 #EXTINF:-1 tvg-id="TVSPinballNetwork.us@SD",TVS Pinball Network (480p)
 https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD",Golf Channel Latin America (720p)
+http://143.14.178.35/TCM-HD/index.m3u8
+#EXTINF:-1 tvg-id="JewelryTV2.us@SD",Jewelry TV 2 (720p)
+https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
+#EXTINF:-1 tvg-id="TBNArmenia.us@SD",TBN Armenia
+https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk@SD",English Club TV (576i)
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ENTChannel.uk@HD",ENT Channel (720p)
