@@ -1,42 +1,12 @@
-#EXTM3U x-generated=iptv-matrix-gen x-date=2026-10-29 x-count=1753
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/bojack_horseman-687229611-mmed.jpg" group-title="Netflix",BOJACK HORSEMAN
-http://archive.org/download/ns_20210520/BOJA.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",EL JUEGO DEL CALAMAR
-https://archive.org/download/elch4v0/calam.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ARROW.jpg" group-title="Netflix",ARROW
-http://archive.org/download/ns_20210520/arrow.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vkGnVBSNpayJ1oCfyVaMvhrim95.jpg" group-title="Netflix",LUCIFER
-https://archive.org/download/elch4v0/luc1f3r.m3u
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qjUn6GVZVDifLHB7bvVrgZsOfzE.jpg" group-title="Netflix",XINA
-https://dl.dropbox.com/s/qybhybywfjkupuq/xen4.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CASA DE FLORES.jpg" group-title="Netflix",CASA DE FLORES
-http://archive.org/download/ns_20210520/casa%20de%20flores%20.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK MIRROR.jpg" group-title="Netflix",BLACK MIRROR
-http://archive.org/download/ns_20210520/BLACK%20MIRR.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CASTLEVANIA.jpg" group-title="Netflix",CASTLEVANIA
-http://archive.org/download/ns_20210520/CASTEL.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLUB DE CUERVOS.jpg" group-title="Netflix",CLUB DE CUERVOS
-http://archive.org/download/ns_20210520/CLUBCUERVOS.m3u
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg" group-title="Netflix",THE CROWN
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Temporadas%20The%20crown
-#EXTINF:-1 tvg-logo="https://repro12.estrenosdoramas.us/Sisyphus.png" group-title="Netflix",EL MITO DE SISIFO
-https://archive.org/download/elch4v0/sisy.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLOSE ENOUGH.jpg" group-title="Netflix",CLOSE ENOUGH
-http://archive.org/download/clo-eno/Clo%20Eno.m3u
+#EXTM3U x-generated=iptv-matrix-gen x-date=2026-10-30 x-count=1754
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ohGz4HDYGTite1GmRhRuBMVAn03.jpg" group-title="Netflix",Arcane (2021)
 https://archive.org/download/si2_20220111/arck.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FINAL SPACE.jpg" group-title="Netflix",FINAL SPACE
-http://archive.org/download/ns_20210520/FINAL.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ELITE.jpg" group-title="Netflix",ELITE
 https://archive.org/download/elch4v0/Elite.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOCKE AND KEY.jpg" group-title="Netflix",LOCKE AND KEY
-http://archive.org/download/ns_20210520/lock.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBlZmE4YzItNTY5Mi00NmIxLTlhZTAtOWIxNjFlNTMzNmI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",KINGDOM
 https://archive.org/download/elch4v0/kindo.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez/b34ckm4.jpg" group-title="Netflix",EL MUNDO DE BEAKMAN {1992}
 http://archive.org/download/ns_20210520/BECMAN.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GUAU QUE AMIGO.jpg" group-title="Netflix",GUAU QUE AMIGO
-http://archive.org/download/ns_20210520/GUAU.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/archive-81-2-1642252803.jpg" group-title="Netflix",Archivo 81 (2022) latino
 https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Archivo%2081
 #EXTINF:-1 tvg-logo="https://www23.estrenosdoramas.net/wp-content/uploads/2020/02/My_Holo_Love.jpg?x64181" group-title="Netflix",MY HOLO LOVE
@@ -47,8 +17,6 @@ https://archive.org/download/elch4v0/P3KY.m3u
 http://archive.org/download/ns_20210520/high%20score.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI
 https://archive.org/download/si2_20220111/CK.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE PAPEL.jpg" group-title="Netflix",LA CASA DE PAPEL
-http://archive.org/download/ns_20210520/la%20casa%20de%20pape.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rumbo-al-infierno-1669344118.png" group-title="Netflix",Rumbo al infierno (2021) latino
 https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Rumbo%20al%20infierno
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-midnight-gospel-1587583248.jpg" group-title="Netflix",The midnight gospel (2020) latino
@@ -95,8 +63,6 @@ http://archive.org/download/t-1odcnkdbejrvq/T1odcnkdbejrvq.m3u
 http://archive.org/download/ns_20210520/ELGAN.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SANTA CLARITA DIET.jpg" group-title="Netflix",SANTA CLARITA DIET
 http://archive.org/download/ns_20210520/SANDIE.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STRANGER THINGS.jpg" group-title="Netflix",STRANGER THINGS
-http://archive.org/download/ns_20210520/stin.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk4ZDRhYzEtZWExNy00MjIyLTgyYmMtN2Y2MzA4YzZhZTZmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",Sweet Tooth
 https://archive.org/download/elch4v0/sweedr.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ESTA MIERDA ME SUPERA .jpg" group-title="Netflix",ESTA MIERDA ME SUPERA
@@ -105,28 +71,22 @@ http://archive.org/download/esta-mierda-me-supera/Esta%20mierda%20me%20supera.m3
 https://archive.org/download/elch4v0/huesom.m3u
 #EXTINF:-1 tvg-logo="https://www23.estrenosdoramas.net/wp-content/uploads/2020/01/Touch.jpg" group-title="Netflix",TOUCH
 https://archive.org/download/elch4v0/TOUCH.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/TITANS.jpg" group-title="Netflix",TITANS
-http://archive.org/download/ns_20210520/TITAN.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE END OF THE WORD.jpg" group-title="Netflix",THE END OF THE WORD
 http://archive.org/download/macross-frontier/the%20end%20of%20the%20world00.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/VIZ A VIZ.jpg" group-title="Netflix",VIZ A VIZ
 http://archive.org/download/t-5vavfufjfkxksu/T5vavfufjfkxksu.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE KING THE ETERNAL MONARCH.jpg" group-title="Netflix",THE KING THE ETERNAL MONARCH
 http://archive.org/download/king_20201210/KING.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK SUMMER.jpg" group-title="Netflix",BLACK SUMMER
-http://archive.org/download/black-summer-serie/BLACK%20SUMMER%20%20SERIE.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SED DE REVANCHA GET EVEN.jpg" group-title="Netflix",SED DE REVANCHA GET EVEN
 http://archive.org/download/sedven/sedven.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE OFFICE.jpg" group-title="Netflix",THE OFFICE
-http://archive.org/download/theoffice-1/THEOFFICE.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GAMBITO DE DAMA.jpg" group-title="Netflix",GAMBITO DE DAMA
+http://archive.org/download/gam_20201208/GAM.m3u
 #EXTINF:0 genre="Animation",Cosmos Laundromat - First Cycle (2K)
 https://media.xiph.org/cosmoslaundromat/Cosmos_Laundromat_First_Cycle_2k.mp4
 #EXTINF:0 genre="Animation",Cosmos Laundromat - Bande-annonce
 https://media.xiph.org/cosmoslaundromat/Pilot_Trailer_Cosmos_Laundromat.mp4
 #EXTINF:0 genre="Cinéma",Tears of Steel (film libre - 1080p)
 https://media.xiph.org/mango/tears_of_steel_1080p.webm
-#EXTINF:-1,M6 (1080p)
-http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1,Rai 2 (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:-1,Deutsche Welle English (1080p)
@@ -191,6 +151,8 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr@SD",Euronews Russian (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD",Euronews Russian (576p)
+http://tmptv.sunduk.tv/CH31/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr@SD",Euronews Russian
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD",Euronews Spanish (720p)
@@ -283,6 +245,8 @@ https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 http://99.27.51.147:8080/Gulli/index.m3u8
 #EXTINF:-1 tvg-id="HANDICAPTV.fr@SD",HANDICAP TV France
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-id="ILTV.fr@SD",ILTV (720p)
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (1080p)
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (720p)
@@ -347,6 +311,8 @@ https://iptv.bitred.cl/euronews/index.m3u8
 http://138.121.15.230:9002/FRANCE-24/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr@HD",Trace Sport Stars (576p)
 https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (720p)
+https://mumbai-edge.smartplaytv.in/france24/index.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD",Africanews English (720p)
 https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
 #EXTINF:-1 tvg-id="Europe1TV.fr@HD",Europe 1 TV (1080p)
@@ -487,6 +453,8 @@ https://elephant.t62a.com/hls/8103/index.m3u8
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de@SD",KulturMD (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="labor14.de@HD",labor14 (720p)
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Lausitzwelle.de@SD",Lausitzwelle (1080p)
 https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de@SD",Leipzig Fernsehen (1080p)
@@ -571,6 +539,62 @@ https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
 https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
 #EXTINF:-1 tvg-id="RAN1.de@SD",RAN1 (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RBW.de@SD",RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVBodensee.de@SD",Regio TV Bodensee (1080p)
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVStuttgart.de@SD",Regio TV Stuttgart (1080p)
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RFH.de@SD",RFH (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RFH.de@SD",RFH (1080p)
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8
+#EXTINF:-1 tvg-id="RiC.de@SD",RiC (1080p)
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 tvg-id="RockAntenne.de@SD",Rock Antenne [Not 24/7]
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/bojack_horseman-687229611-mmed.jpg" group-title="Netflix",BOJACK HORSEMAN
+http://archive.org/download/ns_20210520/BOJA.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",EL JUEGO DEL CALAMAR
+https://archive.org/download/elch4v0/calam.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ARROW.jpg" group-title="Netflix",ARROW
+http://archive.org/download/ns_20210520/arrow.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vkGnVBSNpayJ1oCfyVaMvhrim95.jpg" group-title="Netflix",LUCIFER
+https://archive.org/download/elch4v0/luc1f3r.m3u
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qjUn6GVZVDifLHB7bvVrgZsOfzE.jpg" group-title="Netflix",XINA
+https://dl.dropbox.com/s/qybhybywfjkupuq/xen4.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CASA DE FLORES.jpg" group-title="Netflix",CASA DE FLORES
+http://archive.org/download/ns_20210520/casa%20de%20flores%20.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK MIRROR.jpg" group-title="Netflix",BLACK MIRROR
+http://archive.org/download/ns_20210520/BLACK%20MIRR.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CASTLEVANIA.jpg" group-title="Netflix",CASTLEVANIA
+http://archive.org/download/ns_20210520/CASTEL.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLUB DE CUERVOS.jpg" group-title="Netflix",CLUB DE CUERVOS
+http://archive.org/download/ns_20210520/CLUBCUERVOS.m3u
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1M876KPjulVwppEpldhdc8V4o68.jpg" group-title="Netflix",THE CROWN
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Temporadas%20The%20crown
+#EXTINF:-1 tvg-logo="https://repro12.estrenosdoramas.us/Sisyphus.png" group-title="Netflix",EL MITO DE SISIFO
+https://archive.org/download/elch4v0/sisy.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/CLOSE ENOUGH.jpg" group-title="Netflix",CLOSE ENOUGH
+http://archive.org/download/clo-eno/Clo%20Eno.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/FINAL SPACE.jpg" group-title="Netflix",FINAL SPACE
+http://archive.org/download/ns_20210520/FINAL.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOCKE AND KEY.jpg" group-title="Netflix",LOCKE AND KEY
+http://archive.org/download/ns_20210520/lock.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GUAU QUE AMIGO.jpg" group-title="Netflix",GUAU QUE AMIGO
+http://archive.org/download/ns_20210520/GUAU.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE PAPEL.jpg" group-title="Netflix",LA CASA DE PAPEL
+http://archive.org/download/ns_20210520/la%20casa%20de%20pape.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STRANGER THINGS.jpg" group-title="Netflix",STRANGER THINGS
+http://archive.org/download/ns_20210520/stin.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/TITANS.jpg" group-title="Netflix",TITANS
+http://archive.org/download/ns_20210520/TITAN.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK SUMMER.jpg" group-title="Netflix",BLACK SUMMER
+http://archive.org/download/black-summer-serie/BLACK%20SUMMER%20%20SERIE.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE OFFICE.jpg" group-title="Netflix",THE OFFICE
+http://archive.org/download/theoffice-1/THEOFFICE.m3u
+#EXTINF:-1,M6 (1080p)
+http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="SevillaFCTV.es@SD",Sevilla FC TV (360p) [Not 24/7]
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1 tvg-id="SpektraTV.es@SD",SpektraTV (720p)
@@ -2929,8 +2953,6 @@ http://archive.org/download/ns_20210520/DRAMATOTAL.m3u
 http://archive.org/download/ns_20210520/seed.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SWEET HOME.jpg" group-title="Netflix",SWEET HOME
 http://archive.org/download/sweethome_202101/SWEETHOME.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GAMBITO DE DAMA.jpg" group-title="Netflix",GAMBITO DE DAMA
-http://archive.org/download/gam_20201208/GAM.m3u
 #EXTINF:-1,TF1 HD (720p)
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1,Canal+ Cinemas (720p)
@@ -2945,38 +2967,18 @@ http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 http://41.205.93.154/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="TMC.fr@SD",TMC (1080p)
 http://151.80.18.177:86/TMC/index.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (720p)
-https://mumbai-edge.smartplaytv.in/france24/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr@SD",Canal+ (720p)
 http://151.80.18.177:86/Canal+_HD/index.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr@SD",Franceinfo (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-#EXTINF:-1 tvg-id="ILTV.fr@SD",ILTV (720p)
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.fr@SD",Nicktoons (1080p)
 http://193.254.245.162/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="KaufBeiTV.de@SD",KaufBei TV (576p)
 https://api.alpaca.t62a.com/hls/9103/index.m3u8
-#EXTINF:-1 tvg-id="labor14.de@HD",labor14 (720p)
-https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioWeserTVBremen.de@SD",Radio Weser TV Bremen (576p)
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioWeserTVBremen.de@SD",Radio Weser TV Bremen (576p)
 https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 tvg-id="RBW.de@SD",RBW (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
-#EXTINF:-1 tvg-id="RegioTVBodensee.de@SD",Regio TV Bodensee (1080p)
-https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RegioTVStuttgart.de@SD",Regio TV Stuttgart (1080p)
-https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RFH.de@SD",RFH (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
-#EXTINF:-1 tvg-id="RFH.de@SD",RFH (1080p)
-https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8
-#EXTINF:-1 tvg-id="RiC.de@SD",RiC (1080p)
-https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
-#EXTINF:-1 tvg-id="RockAntenne.de@SD",Rock Antenne [Not 24/7]
-https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 tvg-id="RTDE.de@SD",RT DE (1080p) [Not 24/7]
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDE.de@SD",RT DE (1080p) [Not 24/7]
