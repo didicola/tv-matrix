@@ -1,4 +1,124 @@
-#EXTM3U x-generated=iptv-matrix-gen x-date=2026-10-31 x-count=1755
+#EXTM3U x-generated=iptv-matrix-gen x-date=2026-11-01 x-count=1755
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYXD.png" group-title="United Kingdom",UK: Disney XD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1514.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYXD.png" group-title="United Kingdom",UK:Disney XD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/502.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYJUNIOR.png" group-title="United Kingdom",UK: Disney Junior
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/503.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",|DE| NETFLIX SELECT INFO
+http://siptvs.com:8080/live/Biljana12/Biljana12/126208.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 1
+http://siptvs.com:8080/live/Biljana12/Biljana12/66046.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 2
+http://siptvs.com:8080/live/Biljana12/Biljana12/66050.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 3
+http://siptvs.com:8080/live/Biljana12/Biljana12/66051.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 4
+http://siptvs.com:8080/live/Biljana12/Biljana12/67454.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 5
+http://siptvs.com:8080/live/Biljana12/Biljana12/67455.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 6
+http://siptvs.com:8080/live/Biljana12/Biljana12/67456.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 7
+http://siptvs.com:8080/live/Biljana12/Biljana12/67458.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 9
+http://siptvs.com:8080/live/Biljana12/Biljana12/67462.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 10
+http://siptvs.com:8080/live/Biljana12/Biljana12/67463.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DECJI",Disney Jr.
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/438.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Channel HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50689.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Channel +1
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50690.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Cinema
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50691.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Cinema HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50692.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Junior HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50693.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",Disney Cinemagic
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/26601.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",Disney Junior DE
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/313.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",Disney DE
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/294.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Disney Channel
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52702.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Disney Plus Film HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52731.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 1 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52809.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 2 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52810.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 3 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52811.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 4 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52812.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 5 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52813.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 6 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52814.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 7 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52815.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 8 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52816.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 9 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52817.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 10 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52818.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 11 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52819.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 12 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52820.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 13 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52821.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 14 HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52822.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Veronica / DisneyXD HD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Veronica / Disney XD FHD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51745.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Disney Channel
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51768.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Disney Junior
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51769.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",RO:  Disney Channel
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51185.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",RO:  Disney Junior
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51186.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",: RO2: Disney Junior
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53190.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SVEDSKA",Disney Chanel (sw)
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/417.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SVEDSKA",Disney Jr (sw)
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1122.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Disney Junior
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53356.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Disney XD
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 01" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 01
+http://64.31.23.207:80/96795792/50165825/296915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 02" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 02
+http://64.31.23.207:80/96795792/50165825/296916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 03" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 03
+http://64.31.23.207:80/96795792/50165825/296917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 04" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 04
+http://64.31.23.207:80/96795792/50165825/296918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 05" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 05
+http://64.31.23.207:80/96795792/50165825/296919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 06" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 06
+http://64.31.23.207:80/96795792/50165825/296920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 07" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 07
+http://64.31.23.207:80/96795792/50165825/296921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 08" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 08
+http://64.31.23.207:80/96795792/50165825/296922.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zqZ9N1BSRVk8LKlYpRIQI8fHzAs.jpg" group-title="Netflix",Dark (2017)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Dark%20(2017).m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg" group-title="Netflix",Stranger Things (2016)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Stranger%20Things%20(2016).m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qSMv90pF9WbWyQAfKTjr0qUc1rq.jpg" group-title="Netflix",Estado de la fuga 1986 (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Estado%20de%20la%20fuga%201986%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fr57huR86UiVWJr6C7S8wRaghZw.jpg" group-title="Netflix",La bestia en mí (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/la%20bestia%20en%20mi.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4WRrWmk5BJhlBOFEK0VWWFxamqU.jpg" group-title="Netflix",Hija del fuego (2025)
@@ -219,6 +339,10 @@ http://archive.org/download/t-5vavfufjfkxksu/T5vavfufjfkxksu.m3u
 http://archive.org/download/king_20201210/KING.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK SUMMER.jpg" group-title="Netflix",BLACK SUMMER
 http://archive.org/download/black-summer-serie/BLACK%20SUMMER%20%20SERIE.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GAMBITO DE DAMA.jpg" group-title="Netflix",GAMBITO DE DAMA
+http://archive.org/download/gam_20201208/GAM.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE OFFICE.jpg" group-title="Netflix",THE OFFICE
+http://archive.org/download/theoffice-1/THEOFFICE.m3u
 #EXTINF:0 genre="Animation",Cosmos Laundromat - First Cycle (2K)
 https://media.xiph.org/cosmoslaundromat/Cosmos_Laundromat_First_Cycle_2k.mp4
 #EXTINF:0 genre="Animation",Cosmos Laundromat - Bande-annonce
@@ -383,6 +507,8 @@ https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 http://99.27.51.147:8080/Gulli/index.m3u8
 #EXTINF:-1 tvg-id="HANDICAPTV.fr@SD",HANDICAP TV France
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-id="ILTV.fr@SD",ILTV (720p)
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (1080p)
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (720p)
@@ -415,6 +541,8 @@ https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD",TV5Monde Africa (720p)
 http://5.9.121.178/tv5monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia (576p)
+http://27.131.164.187:8080/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD",TV5MONDE Chefs (1080p)
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD",TV5Monde Europe (1080p)
@@ -583,14 +711,8 @@ http://archive.org/download/ns_20210520/ELGAN.m3u
 http://archive.org/download/ns_20210520/SANDIE.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SED DE REVANCHA GET EVEN.jpg" group-title="Netflix",SED DE REVANCHA GET EVEN
 http://archive.org/download/sedven/sedven.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GAMBITO DE DAMA.jpg" group-title="Netflix",GAMBITO DE DAMA
-http://archive.org/download/gam_20201208/GAM.m3u
 #EXTINF:-1 tvg-id="EuronewsRussian.fr@SD",Euronews Russian (576p)
 http://tmptv.sunduk.tv/CH31/index.m3u8
-#EXTINF:-1 tvg-id="ILTV.fr@SD",ILTV (720p)
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia (576p)
-http://27.131.164.187:8080/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia
 http://103.172.187.30:12000/stream/allchannel/tv5asie
 #EXTINF:-1 tvg-id="FrankenFernsehen.de@SD",Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]
@@ -741,8 +863,6 @@ http://archive.org/download/ns_20210520/la%20casa%20de%20pape.m3u
 http://archive.org/download/ns_20210520/stin.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/TITANS.jpg" group-title="Netflix",TITANS
 http://archive.org/download/ns_20210520/TITAN.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE OFFICE.jpg" group-title="Netflix",THE OFFICE
-http://archive.org/download/theoffice-1/THEOFFICE.m3u
 #EXTINF:-1 tvg-id="SevillaFCTV.es@SD",Sevilla FC TV (360p) [Not 24/7]
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1 tvg-id="SpektraTV.es@SD",SpektraTV (720p)
@@ -2825,126 +2945,6 @@ http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1065.m3u8
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1942.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US: Disney XD HD
 http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1943.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYXD.png" group-title="United Kingdom",UK: Disney XD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1514.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYXD.png" group-title="United Kingdom",UK:Disney XD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/502.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYJUNIOR.png" group-title="United Kingdom",UK: Disney Junior
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/503.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",|DE| NETFLIX SELECT INFO
-http://siptvs.com:8080/live/Biljana12/Biljana12/126208.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 1
-http://siptvs.com:8080/live/Biljana12/Biljana12/66046.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 2
-http://siptvs.com:8080/live/Biljana12/Biljana12/66050.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 3
-http://siptvs.com:8080/live/Biljana12/Biljana12/66051.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 4
-http://siptvs.com:8080/live/Biljana12/Biljana12/67454.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 5
-http://siptvs.com:8080/live/Biljana12/Biljana12/67455.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 6
-http://siptvs.com:8080/live/Biljana12/Biljana12/67456.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 7
-http://siptvs.com:8080/live/Biljana12/Biljana12/67458.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 9
-http://siptvs.com:8080/live/Biljana12/Biljana12/67462.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 10
-http://siptvs.com:8080/live/Biljana12/Biljana12/67463.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DECJI",Disney Jr.
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/438.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Channel HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50689.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Channel +1
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50690.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Cinema
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50691.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Cinema HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50692.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: Disney Junior HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50693.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",Disney Cinemagic
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/26601.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",Disney Junior DE
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/313.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",Disney DE
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/294.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Disney Channel
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Disney Plus Film HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52731.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 1 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52809.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 2 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 3 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 4 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52812.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 5 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52813.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 6 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52814.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 7 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 8 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52816.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 9 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 10 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52818.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 11 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52819.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 12 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52820.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 13 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52821.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",DE: Netflix 14 HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/52822.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Veronica / DisneyXD HD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51744.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Veronica / Disney XD FHD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51745.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Disney Channel
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51768.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Disney Junior
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51769.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",RO:  Disney Channel
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",RO:  Disney Junior
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51186.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RUMUNIJA",: RO2: Disney Junior
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53190.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SVEDSKA",Disney Chanel (sw)
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/417.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SVEDSKA",Disney Jr (sw)
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1122.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Disney Junior
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53356.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Disney XD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 01" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 01
-http://64.31.23.207:80/96795792/50165825/296915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 02" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 02
-http://64.31.23.207:80/96795792/50165825/296916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 03" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 03
-http://64.31.23.207:80/96795792/50165825/296917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 04" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 04
-http://64.31.23.207:80/96795792/50165825/296918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 05" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 05
-http://64.31.23.207:80/96795792/50165825/296919.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 06" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 06
-http://64.31.23.207:80/96795792/50165825/296920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 07" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 07
-http://64.31.23.207:80/96795792/50165825/296921.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 08" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="✅ Canais ✨ Disney+ PPV",Disney+ 08
-http://64.31.23.207:80/96795792/50165825/296922.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zqZ9N1BSRVk8LKlYpRIQI8fHzAs.jpg" group-title="Netflix",Dark (2017)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Dark%20(2017).m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg" group-title="Netflix",Stranger Things (2016)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Stranger%20Things%20(2016).m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qSMv90pF9WbWyQAfKTjr0qUc1rq.jpg" group-title="Netflix",Estado de la fuga 1986 (2025)
-https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Estado%20de%20la%20fuga%201986%20(2025)
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BETTER CALL SAUL.jpg" group-title="Netflix",BETTER CALL SAUL
 http://archive.org/download/ns_20210520/saul.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NACION Z.jpg" group-title="Netflix",NACION Z
