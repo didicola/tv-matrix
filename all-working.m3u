@@ -1,32 +1,64 @@
-#EXTM3U x-generated=iptv-matrix-gen x-date=2026-11-07 x-count=1900
-#EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (1080p)
-https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (1080p)
-https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD",Colors Bangla Cinema (576p)
-https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.in@HD",Eurosport HD (1080p)
-https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
-#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla (576p)
-https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in@SD",Jalsha Movies (720p)
-https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in@HD",Zee Bangla HD (1080p)
-https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
-https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8
-#EXTINF:-1 tvg-id="SonyAath.in@SD",Sony Aath (576p)
-https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in@HD",Star Jalsha HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8
+#EXTM3U x-generated=iptv-matrix-gen x-date=2026-11-08 x-count=1933
+#EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD",Zee Uttar Pradesh/Uttarakhand (576p)
+https://mumt07.tangotv.in/zHjX9OFlZEEUPUK/index.m3u8
+#EXTINF:-1 tvg-id="ZillarBartaNews.in@HD",ZillarBarta News
+https://server.zillarbarta.com/zillarbarta/index.m3u8
+#EXTINF:-1 tvg-id="Zingabad.in@SD",Zingabad (1080p)
+https://stream.ottlive.co.in/zingabad/index.m3u8
+#EXTINF:-1 tvg-id="ZodiakTV.in@SD",Zodiak TV (1080p)
+https://ranacable.duckdns.org/ZodiakTv/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.in@SD",Zoom (576p)
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="HungamaTV.in@SD",Hungama TV (576p)
+http://103.135.253.32:8080/HUNGAMA/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD",National Geographic HD (1080p)
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+#EXTINF:-1 tvg-id="MoviesNowPlus.in@HD",Movies Now + (1080p)
+http://103.135.253.32:8080/MN-PLUS/index.m3u8
+#EXTINF:-1 tvg-id="MoviesNow.in@HD",Movies Now HD (1080p)
+http://103.135.253.32:8080/MOVIES-NOW/index.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in@HD",Star Bharat HD (1080p)
+http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
-https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldSelect.in@SD",Star Gold Select (1080p)
-https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD",Nickelodeon (576p)
+http://103.135.253.32:8080/NICK/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.in@SD",Nick Jr. (576p)
+http://103.135.253.32:8080/NICK-Jr/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (1080p)
+http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD",Colors Bangla Cinema (576p)
+http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
+http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
+http://103.135.253.32:8080/STAR-PLUS/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD",Star Gold HD (1080p)
+http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in@HD",Jalsha Movies HD (1080p)
+http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in@HD",Star Jalsha HD (1080p)
+http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in@HD",Zee TV HD (1080p)
+http://103.135.253.32:8080/ZEE-TV/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
+http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD",Zee Bangla Sonar (576p)
+http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD",Discovery Channel HD (1080p)
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD",Cartoon Network HD+ (1080p)
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Pogo.in@SD",Pogo (576p)
+http://103.135.253.32:8080/POGO/index.m3u8
+#EXTINF:-1 tvg-id="SonyAath.in@SD",Sony Aath (576p)
+http://103.135.253.32:8080/SONY_AATH/index.m3u8
+#EXTINF:-1 tvg-id="Andpictures.in@HD",&pictures HD (1080p)
+http://103.135.253.32:8080/PICTURE-HD/index.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India",B4U Movies (1080p)
+http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@HD",Sony Max HD (1080p)
+http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
 #EXTINF:-1 tvg-id="TV7National.in@SD",TV7 National (1080p)
 https://stream.ottlive.co.in/tv7national/index.m3u8
 #EXTINF:-1 tvg-id="NDTVRajasthan.in@SD",NDTV Rajasthan (1080p)
@@ -153,12 +185,6 @@ https://stream.ottlive.co.in/tv27/index.m3u8
 https://stream.ottlive.co.in/tv45/index.m3u8
 #EXTINF:-1 tvg-id="HindiHits.in@SD",Hindi Hits (1080p)
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in@SD",Goldmines (576p)
-https://tvsen6.aynaott.com/hKrngve2/index.m3u8
-#EXTINF:-1 tvg-id="ShemarooTV.in@SD",Shemaroo TV (576p)
-https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8
-#EXTINF:-1 tvg-id="ChannelWIN.in@SD",Channel WIN (720p)
-https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1 tvg-id="OnkarNews.in@SD",Onkar News (1080p)
 https://stream.ottlive.co.in/onkarnews/index.m3u8
 #EXTINF:-1 tvg-id="Aastha.in@SD",Aastha (576p)
@@ -229,6 +255,12 @@ http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass
 https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTelugu.in@HD",Zee Telugu HD (720p)
 https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
+#EXTINF:-1 tvg-id="RPlusGold.in@SD",R Plus Gold (1080p)
+https://vglivessai.akamaized.net/ptnr-lg/title-Rplus_Gold/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/33172241-82f7-4c91-8ae8-4754309b66a0/index.m3u8
+#EXTINF:-1 tvg-id="Asianet.in@HD",Asianet HD (720p)
+https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ASIANETHD.m3u8
+#EXTINF:-1 tvg-id="Pogo.in@SD",Pogo (720p)
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:0 group-title="NEWS",France 24 Français (FR24)
 https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 #EXTINF:0 group-title="NEWS",France 24 English (FR24 EN)
@@ -279,108 +311,6 @@ http://limed.cc:80/live/ZWsDKE/XZu7nP/303556.m3u8
 http://limed.cc:80/live/ZWsDKE/XZu7nP/303828.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/OUTROS/pt-disney-junior.svg" group-title="CANAIS | PORTUGAL",PT: DISNEY JUNIOR [M]
 http://limed.cc:80/live/ZWsDKE/XZu7nP/303827.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 1 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5981.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 2 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5982.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 3 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5983.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 4 HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5984.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Denmark",DK: Disney XD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Denmark",DK: Disney Channel
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2575.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Aksion.png" group-title="Filma",AL: Netflix Aksion
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3353.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Arnold Schwarzenegger.png" group-title="Filma",AL: Netflix Arnold Schwarzenegger
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3352.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Aventure.png" group-title="Filma",AL: Netflix Aventure
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3351.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Bud Spencer.png" group-title="Filma",AL: Netflix Bud Spencer
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3350.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Dwayne Johnson.png" group-title="Filma",AL: Netflix Dwayne Johnson
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3349.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Fantazi.png" group-title="Filma",AL: Netflix Fantazi
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3347.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Jackie Chan.png" group-title="Filma",AL: Netflix Jackie Chan
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3344.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Komedi.png" group-title="Filma",AL: Netflix Komedi
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3343.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Relaks FHD.png" group-title="Filma",AL: Netflix Relaks FHD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3342.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Romance.png" group-title="Filma",AL: Netflix Romance
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3341.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Spider-Man.png" group-title="Filma",AL: Netflix Spider-Man
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3340.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Sylvester Stallone.png" group-title="Filma",AL: Netflix Sylvester Stallone
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3339.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Van Damme.png" group-title="Filma",AL: Netflix Van Damme
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3338.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/finland/Disney_Channel_logo_(2014).png" group-title="Finland",FI: Disney Channel
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2322.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",FR: Disney Junior HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2677.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",FR: Disney XD HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2676.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",FR: Disney Channel
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2666.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",FR: Disney Cinema HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2667.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DE: Netflix  Scıence-Fıctıon ʜᴅ
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6059.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DE: Netflix  Krımı ʜᴅ
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6058.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DE: Netflix  Komodie ʜᴅ
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6057.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DE: Netflix  Horror ʜᴅ
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6056.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Fantasy HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6055.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Familie HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6054.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Drama hd
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6053.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Action HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6052.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Abenteur HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6051.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/DISNEYCINEMAGICHD.png" group-title="Germany",DE: Disney Cinemagic
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/294.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/DISNEYJUNIORHD.png" group-title="Germany",DE: Disney Junior
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/293.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/DISNEYCHANNELHD.png" group-title="Germany",DE: Disney Channel HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/292.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Greece",GR: Disney Channel
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5946.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/eaglecinema.png" group-title="Italy",IT: Eagle Disney Topolino Paperino e Pippo HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1393.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/eaglecinema.png" group-title="Italy",IT: Eagle Le Fiabe Disney HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1399.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/eaglecinema.png" group-title="Italy",IT: Disney Plus Animation ᴴᴰ
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Norway",NO: Disney Channel NO
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2347.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Norway",NO: Disney Channel
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2333.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Norway",NO: Disney XD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2334.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/disneyxd.png" group-title="Sweeden",SE: Disney XD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1066.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/disneyjunior.png" group-title="Sweeden",SE: Disney Junior
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1064.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/disneychannel.png" group-title="Sweeden",SE: Disney Channel
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1065.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",US: Disney Channel HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1942.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",US: Disney XD HD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1943.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYXD.png" group-title="United Kingdom",UK: Disney XD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1514.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYXD.png" group-title="United Kingdom",UK:Disney XD
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/502.m3u8
-#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYJUNIOR.png" group-title="United Kingdom",UK: Disney Junior
-http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/503.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",|DE| NETFLIX SELECT INFO
 http://siptvs.com:8080/live/Biljana12/Biljana12/126208.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/GERMANY/netflix.png" group-title="DE: FILM Premium",DE: NETFLIX 1
@@ -641,8 +571,12 @@ https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/he
 https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Avatar%20live%20action
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BETTER CALL SAUL.jpg" group-title="Netflix",BETTER CALL SAUL
 http://archive.org/download/ns_20210520/saul.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DAYBREAK.jpg" group-title="Netflix",DAYBREAK
+http://archive.org/download/t-1dbfifkdudkx_202010/T1dbfifkdudkx.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/NACION Z.jpg" group-title="Netflix",NACION Z
 http://archive.org/download/ns_20210520/NACION%20Z.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DRAMA TOTAL.jpg" group-title="Netflix",DRAMA TOTAL
+http://archive.org/download/ns_20210520/DRAMATOTAL.m3u
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/bojack_horseman-687229611-mmed.jpg" group-title="Netflix",BOJACK HORSEMAN
 http://archive.org/download/ns_20210520/BOJA.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",EL JUEGO DEL CALAMAR
@@ -691,6 +625,142 @@ https://archive.org/download/elch4v0/P3KY.m3u
 http://archive.org/download/ns_20210520/high%20score.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI
 https://archive.org/download/si2_20220111/CK.m3u
+#EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (1080p)
+https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (1080p)
+https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD",Colors Bangla Cinema (576p)
+https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.in@HD",Eurosport HD (1080p)
+https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla (576p)
+https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in@SD",Jalsha Movies (720p)
+https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in@HD",Zee Bangla HD (1080p)
+https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema HD (1080p)
+https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8
+#EXTINF:-1 tvg-id="SonyAath.in@SD",Sony Aath (576p)
+https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in@HD",Star Jalsha HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
+https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@SD",Star Gold Select (1080p)
+https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
+#EXTINF:-1 tvg-id="Goldmines.in@SD",Goldmines (576p)
+https://tvsen6.aynaott.com/hKrngve2/index.m3u8
+#EXTINF:-1 tvg-id="ShemarooTV.in@SD",Shemaroo TV (576p)
+https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8
+#EXTINF:-1 tvg-id="ChannelWIN.in@SD",Channel WIN (720p)
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 1 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5981.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 2 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5982.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 3 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5983.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",AL: Dark Netflix 4 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5984.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Denmark",DK: Disney XD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Denmark",DK: Disney Channel
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2575.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Aksion.png" group-title="Filma",AL: Netflix Aksion
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3353.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Arnold Schwarzenegger.png" group-title="Filma",AL: Netflix Arnold Schwarzenegger
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3352.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Aventure.png" group-title="Filma",AL: Netflix Aventure
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3351.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Bud Spencer.png" group-title="Filma",AL: Netflix Bud Spencer
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3350.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Dwayne Johnson.png" group-title="Filma",AL: Netflix Dwayne Johnson
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3349.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Fantazi.png" group-title="Filma",AL: Netflix Fantazi
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3347.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Jackie Chan.png" group-title="Filma",AL: Netflix Jackie Chan
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3344.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Komedi.png" group-title="Filma",AL: Netflix Komedi
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3343.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Relaks FHD.png" group-title="Filma",AL: Netflix Relaks FHD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3342.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Romance.png" group-title="Filma",AL: Netflix Romance
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3341.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Spider-Man.png" group-title="Filma",AL: Netflix Spider-Man
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3340.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Sylvester Stallone.png" group-title="Filma",AL: Netflix Sylvester Stallone
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3339.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Netflix Van Damme.png" group-title="Filma",AL: Netflix Van Damme
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3338.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/finland/Disney_Channel_logo_(2014).png" group-title="Finland",FI: Disney Channel
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2322.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",FR: Disney Junior HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2677.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",FR: Disney XD HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",FR: Disney Channel
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2666.m3u8
+#EXTINF:-1 tvg-logo="" group-title="France",FR: Disney Cinema HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2667.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE: Netflix  Scıence-Fıctıon ʜᴅ
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6059.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE: Netflix  Krımı ʜᴅ
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6058.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE: Netflix  Komodie ʜᴅ
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6057.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE: Netflix  Horror ʜᴅ
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6056.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Fantasy HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6055.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Familie HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Drama hd
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6053.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Action HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6052.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",DE:Netflix Abenteur HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6051.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/DISNEYCINEMAGICHD.png" group-title="Germany",DE: Disney Cinemagic
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/294.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/DISNEYJUNIORHD.png" group-title="Germany",DE: Disney Junior
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/293.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/DISNEYCHANNELHD.png" group-title="Germany",DE: Disney Channel HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/292.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Greece",GR: Disney Channel
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5946.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/eaglecinema.png" group-title="Italy",IT: Eagle Disney Topolino Paperino e Pippo HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1393.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/eaglecinema.png" group-title="Italy",IT: Eagle Le Fiabe Disney HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1399.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/italy/eaglecinema.png" group-title="Italy",IT: Disney Plus Animation ᴴᴰ
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1374.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Norway",NO: Disney Channel NO
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2347.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Norway",NO: Disney Channel
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2333.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Norway",NO: Disney XD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/2334.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/disneyxd.png" group-title="Sweeden",SE: Disney XD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1066.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/disneyjunior.png" group-title="Sweeden",SE: Disney Junior
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1064.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/sweeden/disneychannel.png" group-title="Sweeden",SE: Disney Channel
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1065.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",US: Disney Channel HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1942.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA",US: Disney XD HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1943.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYXD.png" group-title="United Kingdom",UK: Disney XD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1514.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYXD.png" group-title="United Kingdom",UK:Disney XD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/502.m3u8
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/uk/DISNEYJUNIOR.png" group-title="United Kingdom",UK: Disney Junior
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/503.m3u8
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA CASA DE PAPEL.jpg" group-title="Netflix",LA CASA DE PAPEL
 http://archive.org/download/ns_20210520/la%20casa%20de%20pape.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rumbo-al-infierno-1669344118.png" group-title="Netflix",Rumbo al infierno (2021) latino
@@ -1413,8 +1483,6 @@ https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RadioZeta.it@SD",Radio Zeta TV (1080p)
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DAYBREAK.jpg" group-title="Netflix",DAYBREAK
-http://archive.org/download/t-1dbfifkdudkx_202010/T1dbfifkdudkx.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk4ZDRhYzEtZWExNy00MjIyLTgyYmMtN2Y2MzA4YzZhZTZmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",Sweet Tooth
 https://archive.org/download/elch4v0/sweedr.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GAMBITO DE DAMA.jpg" group-title="Netflix",GAMBITO DE DAMA
@@ -3443,8 +3511,6 @@ http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
 #EXTINF:0,Disney Junior
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DRAMA TOTAL.jpg" group-title="Netflix",DRAMA TOTAL
-http://archive.org/download/ns_20210520/DRAMATOTAL.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SWEET HOME.jpg" group-title="Netflix",SWEET HOME
 http://archive.org/download/sweethome_202101/SWEETHOME.m3u
 #EXTINF:-1,TF1 HD (720p)
