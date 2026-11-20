@@ -1,4 +1,148 @@
-#EXTM3U x-generated=iptv-matrix-gen x-date=2026-11-19 x-count=2194
+#EXTM3U x-generated=iptv-matrix-gen x-date=2026-11-20 x-count=2250
+#EXTINF:-1 tvg-id="TV9Bangla.in@SD",TV9 Bangla (720p)
+https://mumbai-edge.smartplaytv.in/Tv9Bangla/index.m3u8
+#EXTINF:-1 tvg-id="TV9Bangla.in@SD",TV9 Bangla (576p)
+https://fta.ektv.in/live/201/master.m3u8
+#EXTINF:-1 tvg-id="TV9Bangla.in@SD",TV9 Bangla (576p)
+https://streams.tangotv.in/TV9BANGLA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (1080p)
+https://amg01106-amg01106c2-amgplt0747.playout.now3.amagi.tv/amg01106c2/hls.m3u8
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (1080p)
+https://bharatvarshnews9.akamaized.net/ts-ap-s1-n1/playlist/amg01106-amg01106c2-amgplt0844/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (720p)
+https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (576p)
+http://163.61.226.31:9981/stream/channelid/581061846?profile=pass
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (576p)
+https://fta.ektv.in/live/92/92_0.m3u8
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (576p)
+https://streams.tangotv.in/TV9BHARATVARSH/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV9Gujarati.in@SD",TV9 Gujarati (1080p)
+https://amg01106-amg01106c6-amgplt0747.playout.now3.amagi.tv/amg01106c6/hls.m3u8
+#EXTINF:-1 tvg-id="TV9Gujarati.in@SD",TV9 Gujarati (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9Gujarati.in@SD",TV9 Gujarati (576p)
+https://fta.ektv.in/live/652/master.m3u8
+#EXTINF:-1 tvg-id="TV9Gujarati.in@SD",TV9 Gujarati (576p)
+https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV9Kannada.in@SD",TV9 Kannada (1080p)
+https://amg01106-amg01106c5-amgplt0747.playout.now3.amagi.tv/amg01106c5/hls.m3u8
+#EXTINF:-1 tvg-id="TV9Kannada.in@SD",TV9 Kannada (576p)
+https://mumbai-edge.smartplaytv.in/tv9kannada/index.m3u8
+#EXTINF:-1 tvg-id="TV9Kannada.in@SD",TV9 Kannada (576p)
+https://streams.tangotv.in/TV9KANNADA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV9Kannada.in@SD",TV9 Kannada (720p) [Not 24/7]
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9Marathi.in@SD",TV9 Marathi (1080p)
+https://amg01106-amg01106c7-amgplt0747.playout.now3.amagi.tv/amg01106c7/hls.m3u8
+#EXTINF:-1 tvg-id="TV9Marathi.in@SD",TV9 Marathi (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9Marathi.in@SD",TV9 Marathi (720p)
+https://mumbai-edge.smartplaytv.in/TV9Marathi/index.m3u8
+#EXTINF:-1 tvg-id="TV9Marathi.in@SD",TV9 Marathi (576p)
+https://cdn.pishow.tv/ott/live/2/master.m3u8
+#EXTINF:-1 tvg-id="TV9Marathi.in@SD",TV9 Marathi (576p)
+https://fta.ektv.in/live/190/master.m3u8
+#EXTINF:-1 tvg-id="TV9Marathi.in@SD",TV9 Marathi (576p)
+https://streams.tangotv.in/TV9MARATHI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV9Telugu.in@SD",TV9 Telugu (1080p)
+https://amg01106-amg01106c4-amgplt0747.playout.now3.amagi.tv/amg01106c4/hls.m3u8
+#EXTINF:-1 tvg-id="TV9Telugu.in@SD",TV9 Telugu (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9Telugu.in@SD",TV9 Telugu (576p)
+https://streams.tangotv.in/TV9TELUGU/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV13Gujarati.in@SD",TV13 Gujarati (480p)
+https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
+#EXTINF:-1 tvg-id="TV27News.in@SD",TV27 News (1080p)
+https://stream.ottlive.co.in/tv27/index.m3u8
+#EXTINF:-1 tvg-id="TV27News.in@SD",TV27 News (360p)
+https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8
+#EXTINF:-1 tvg-id="TV30India.in@SD",TV30 India (1080p)
+https://stream.tv30bharat.com/hls/shree/bhattji.m3u8
+#EXTINF:-1 tvg-id="TV45.in@SD",TV45 (1080p)
+https://server.livelegitpro.in/bnews24/bnews24/video.m3u8
+#EXTINF:-1 tvg-id="TV45.in@SD",TV45 (1080p)
+https://stream.ottlive.co.in/tv45/index.m3u8
+#EXTINF:-1 tvg-id="TV100.in@SD",TV 100 (576p)
+https://fta.ektv.in/live/310/master.m3u8
+#EXTINF:-1 tvg-id="UBangla.in@SD",U Bangla (1080p)
+https://stream.ottlive.co.in/ubangla/index.m3u8
+#EXTINF:-1 tvg-id="UltimateTV.in@SD",Ultimate TV (1080p)
+https://stream.ottlive.co.in/utvtamil/index.m3u8
+#EXTINF:-1 tvg-id="UltimateTV.in@SD",Ultimate TV (576p)
+https://mumbai-edge.smartplaytv.in/utv/index.m3u8
+#EXTINF:-1 tvg-id="UniqueTV.in@SD",Unique TV (576p)
+http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass
+#EXTINF:-1 tvg-id="UniqueTV.in@SD",Unique TV (576p)
+https://fta.ektv.in/live/688/master.m3u8
+#EXTINF:-1 tvg-id="UniqueTV.in@SD",Unique TV (576p)
+https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
+#EXTINF:-1 tvg-id="UPNOW.in@SD",UP NOW (720p)
+http://45.122.122.61:8080/UPNOW/video.m3u8
+#EXTINF:-1 tvg-id="UTVPalakkad.in@SD",UTV Palakkad (1080p)
+https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="UTVPalakkad.in@SD",UTV Palakkad (1080p)
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="V6News.in@SD",V6 News (576p)
+https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="V6News.in@SD",V6 News (576p)
+https://fta.ektv.in/live/694/master.m3u8
+#EXTINF:-1 tvg-id="V6News.in@SD",V6 News (576p)
+https://mumbai-edge.smartplaytv.in/V6News/index.m3u8
+#EXTINF:-1 tvg-id="V6News.in@SD",V6 News (576p)
+https://mumt05.tangotv.in/87NeALx2V6NEWS/index.m3u8
+#EXTINF:-1 tvg-id="V6News.in@SD",V6 News (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/V6News.m3u8
+#EXTINF:-1 tvg-id="V6News.in@SD",V6 News (576p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
+#EXTINF:-1 tvg-id="VaanavilTV.in@SD",Vaanavil TV (720p)
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="VaanavilTV.in@SD",Vaanavil TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3VAANAVILTV/index.m3u8
+#EXTINF:-1 tvg-id="ValamTV.in@SD",Valam TV (720p)
+http://cabletv.valamtv.in/hls/stream0.m3u8
+#EXTINF:-1 tvg-id="ValamTVDayro.in@SD",Valam TV Dayro (576p)
+https://samitaorigin.tangotv.in/VALAMDAIRO/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="VanithaTV.in@SD",Vanitha TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8
+#EXTINF:-1 tvg-id="VasanthTV.in@SD",Vasanth TV (576p)
+https://fta.ektv.in/live/228/master.m3u8
+#EXTINF:-1 tvg-id="VasanthTV.in@SD",Vasanth TV (576p)
+https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
+#EXTINF:-1 tvg-id="VCV.in@SD",VCV (720p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 tvg-id="Vedic.in@SD",Vedic (720p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/5812b1a12b62482f83c38f9c8d34cb5a/index.m3u8
+#EXTINF:-1 tvg-id="Vedic.in@SD",Vedic (576p)
+https://fta.ektv.in/live/628/master.m3u8
+#EXTINF:-1 tvg-id="Vedic.in@SD",Vedic (576p)
+https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8
+#EXTINF:-1 tvg-id="Vedic.in@SD",Vedic (480p)
+https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VelichamTV.in@SD",Velicham TV (576p)
+https://mumbai-edge.smartplaytv.in/Velichamtv/index.m3u8
+#EXTINF:-1 tvg-id="VelichamTV.in@SD",Velicham TV (576p)
+https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8
+#EXTINF:-1 tvg-id="VendharTV.in@SD",Vendhar TV (576p)
+https://fta.ektv.in/live/223/master.m3u8
+#EXTINF:-1 tvg-id="VendharTV.in@SD",Vendhar TV (576p)
+https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
+#EXTINF:-1 tvg-id="VendharTV.in@SD",Vendhar TV (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/VendharTV.m3u8
+#EXTINF:-1 tvg-id="ViiMEDIA.in@SD",Vii MEDIA (1080p)
+https://viimedia.akamaized.net/viimedia/master.m3u8
+#EXTINF:-1 tvg-id="ViiMEDIA.in@SD",Vii MEDIA (720p)
+https://viimediacdn.wiseplayout.com/viimedia/master.m3u8
+#EXTINF:-1 tvg-id="VijayTakkar.in@APAC",Vijay Takkar APAC (1080p)
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+#EXTINF:-1 tvg-id="VillageTV.in@SD",Village TV (1080p)
+https://live.villagetv.net/villagetv/hd/index.m3u8
+#EXTINF:-1 tvg-id="VillageTV.in@SD",Village TV (576p)
+https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
+#EXTINF:-1 tvg-id="Vision.in@SD",Vision (576p)
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionBeats.in@SD",Vision Beats (720p)
 http://a-edge.bliscdn.com/Visionbeats/index.m3u8
 #EXTINF:-1 tvg-id="VissaTV.in@SD",Vissa TV (576p)
@@ -161,6 +305,8 @@ http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America (576p)
 http://190.93.224.42/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@NorthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America North HD (1080p)
+http://181.78.14.26:4000/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South (1080p)
 http://45.185.163.75:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South HD (1080p)
@@ -1189,10 +1335,6 @@ http://163.61.226.31:9981/stream/channelid/894286890?profile=pass
 http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
 #EXTINF:-1 tvg-id="QTV.in@SD",Q TV (576p)
 http://163.61.226.31:9981/stream/channelid/359164420?profile=pass
-#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (576p)
-http://163.61.226.31:9981/stream/channelid/581061846?profile=pass
-#EXTINF:-1 tvg-id="UniqueTV.in@SD",Unique TV (576p)
-http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass
 #EXTINF:-1 tvg-id="RajMusixKannada.in@SD",Raj Musix Kannada (576p)
 https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="RPlusGold.in@SD",R Plus Gold (1080p)
@@ -1243,16 +1385,12 @@ http://27.124.71.27/Movies_Now/index.m3u8
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsTVIndia.in@SD",News TV India (720p)
 https://streamlive.livebox.co.in/NewsTVIndiahls/live.m3u8
-#EXTINF:-1 tvg-id="ValamTVDayro.in@SD",Valam TV Dayro (576p)
-https://samitaorigin.tangotv.in/VALAMDAIRO/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PrathamNews.in@SD",Pratham News (576p)
 https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (720p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7b044d82f0bc462b8be3e2dec0bf2bd2/index.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in@SD",India TV (1080p)
 https://vg-indiatv-waves.vgcdn.net/vglive-sk-394591/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (1080p)
-https://amg01106-amg01106c2-amgplt0747.playout.now3.amagi.tv/amg01106c2/hls.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in@SD",ABP News (1080p)
 https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master.m3u8
 #EXTINF:-1 tvg-id="APN.in@SD",APN (576p)
@@ -1273,24 +1411,16 @@ https://network10.livebox.co.in/network10outhls/live.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
 #EXTINF:-1 tvg-id="News9Live.in@SD",News9Live (1080p)
 https://amg01106-amg01106c3-amgplt0747.playout.now3.amagi.tv/amg01106c3/hls.m3u8
-#EXTINF:-1 tvg-id="TV9Marathi.in@SD",TV9 Marathi (1080p)
-https://amg01106-amg01106c7-amgplt0747.playout.now3.amagi.tv/amg01106c7/hls.m3u8
 #EXTINF:-1 tvg-id="GujaratFirst.in@SD",Gujarat First (1080p)
 https://live1.ottlive.co.in/gujaratfirst/index.m3u8
 #EXTINF:-1 tvg-id="LivingIndiaNews.in@SD",Living India News (1080p)
 https://livingindia.ottlive.co.in/livingindia/index.m3u8
 #EXTINF:-1 tvg-id="SandeshNews.in@SD",Sandesh News (1080p)
 https://stream.ottlive.co.in/sandeshnews/index.m3u8
-#EXTINF:-1 tvg-id="TV9Gujarati.in@SD",TV9 Gujarati (1080p)
-https://amg01106-amg01106c6-amgplt0747.playout.now3.amagi.tv/amg01106c6/hls.m3u8
 #EXTINF:-1 tvg-id="TV9Bangla.in@SD",TV9 Bangla (1080p)
 https://amg01106-amg01106c1-amgplt0747.playout.now3.amagi.tv/amg01106c1/hls.m3u8
 #EXTINF:-1 tvg-id="KTVBangla.in@SD",KTV Bangla (1080p)
 https://stream.ottlive.co.in/ktvbangla/index.m3u8
-#EXTINF:-1 tvg-id="TV9Kannada.in@SD",TV9 Kannada (1080p)
-https://amg01106-amg01106c5-amgplt0747.playout.now3.amagi.tv/amg01106c5/hls.m3u8
-#EXTINF:-1 tvg-id="TV9Telugu.in@SD",TV9 Telugu (1080p)
-https://amg01106-amg01106c4-amgplt0747.playout.now3.amagi.tv/amg01106c4/hls.m3u8
 #EXTINF:-1 tvg-id="SudarshanNews.in@SD",Sudarshan News (576p)
 https://stream.ottlive.co.in/sudarshannews/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in@SD",B4U Kadak (1080p)
@@ -1331,8 +1461,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/index.m3u8
 #EXTINF:-1 tvg-id="AasthaBhajan.in@SD",Aastha Bhajan (720p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/218f9e64bdce42369500e93cff50572f/index.m3u8
-#EXTINF:-1 tvg-id="Vedic.in@SD",Vedic (720p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/5812b1a12b62482f83c38f9c8d34cb5a/index.m3u8
 #EXTINF:-1 tvg-id="DharmSandesh.in@SD",Dharm Sandesh (720p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/aed713462c734923aac946a547265288/index.m3u8
 #EXTINF:-1 tvg-id="AasthaGujarati.in@SD",Aastha Gujarati (720p)
@@ -1381,8 +1509,6 @@ https://media9news.akamaized.net/media9/hls/media9tv.m3u8
 https://livingindiaottlive.akamaized.net/spokesman/index.m3u8
 #EXTINF:-1 tvg-id="GTCNews.in@SD",GTC News (1080p)
 https://gtcnews.akamaized.net/gtcnews/index.m3u8
-#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD",TV9 Bharatvarsh (1080p)
-https://bharatvarshnews9.akamaized.net/ts-ap-s1-n1/playlist/amg01106-amg01106c2-amgplt0844/playlist.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in@SD",GTC Punjabi (1080p)
 https://gtcpunjabi.akamaized.net/gtcpunjabi/index.m3u8
 #EXTINF:-1 tvg-id="ChardiklaGurbaaniTV.in@SD",Chardikla Gurbaani TV (1080p)
@@ -1433,8 +1559,6 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3a24ad7f-632f-47f2-acdd-6409bd2e9ec2/playlist.m3u8
 #EXTINF:-1 tvg-id="JK24x7News.in@SD",JK 24x7 News (576p)
 https://samitaorigin.tangotv.in/JKL24X7NEWS/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@NorthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America North HD (1080p)
-http://181.78.14.26:4000/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia
 http://202.150.165.66:8088/play/304-TV5Monde/index.m3u8
 #EXTINF:-1 tvg-id="OKWernigerode.de@SD",OK Wernigerode (1080p)
@@ -2001,10 +2125,6 @@ https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in@SD",Jalsha Movies (1080p)
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TV27News.in@SD",TV27 News (1080p)
-https://stream.ottlive.co.in/tv27/index.m3u8
-#EXTINF:-1 tvg-id="TV45.in@SD",TV45 (1080p)
-https://stream.ottlive.co.in/tv45/index.m3u8
 #EXTINF:-1 tvg-id="HindiHits.in@SD",Hindi Hits (1080p)
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="OnkarNews.in@SD",Onkar News (1080p)
@@ -4093,16 +4213,10 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/PolimerNews.m3u8
 #EXTINF:-1 tvg-id="TNews.in@SD",T News (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TNews.m3u8
-#EXTINF:-1 tvg-id="V6News.in@SD",V6 News (576p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/V6News.m3u8
-#EXTINF:-1 tvg-id="VendharTV.in@SD",Vendhar TV (576p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/VendharTV.m3u8
 #EXTINF:-1 tvg-id="Colors.in@SD",Colors (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 #EXTINF:-1 tvg-id="AllTimeMovies.in@SD",All Time Movies (576p)
 https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="UPNOW.in@SD",UP NOW (720p)
-http://45.122.122.61:8080/UPNOW/video.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in@SD",GTC Punjabi (576p)
 https://streams.tangotv.in/GTC/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="TV7Bharat.in@SD",TV7 Bharat (576p)
@@ -4151,8 +4265,6 @@ http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
 http://51.75.127.199:3141/dnn/index.m3u8
 #EXTINF:-1 tvg-id="DivyavaniTV.in@SD",Divyavani TV (576p)
 http://51.75.127.199:3141/divyavani/index.m3u8
-#EXTINF:-1 tvg-id="TV9Marathi.in@SD",TV9 Marathi (576p)
-https://cdn.pishow.tv/ott/live/2/master.m3u8
 #EXTINF:-1 tvg-id="KeralaVision.in@SD",Kerala Vision (576p)
 https://cdn.pishow.tv/ott/live/243/master.m3u8
 #EXTINF:-1 tvg-id="PowerTV.in@SD",Power TV (576p)
